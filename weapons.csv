@@ -1,0 +1,148 @@
+﻿Name,Rank,Might,Hit,Crit,Uses,Worth,Type
+Bronze Lance,E,3,90,0,50,350,Lance
+Iron Lance,D,6,85,0,40,560,Lance
+Steel Lance,C,9,80,0,35,910,Lance
+Silver Lance,B,13,75,0,30,1560,Lance
+Brave Lance,A,10,70,0,30,2220,Lance
+Javelin,D,2,80,0,25,700,Lance
+Short Spear,C,5,75,0,25,1600,Lance
+Spear,B,8,70,0,25,2400,Lance
+Beast Killer,D,9,70,0,25,1650,Lance
+Blessed Lance,C,11,70,0,35,1540,Lance
+Killer Lance,C,10,80,30,30,1680,Lance
+Luna,B,14,80,5,30,0,Lance
+Gradivus,A,19,85,5,25,0,Lance
+Gáe Bolg,A,15,75,10,25,0,Lance
+Gungnir,A,16,70,10,25,0,Lance
+Log,E,1,90,0,20,100,Lance
+Glass Lance,E,13,75,0,3,600,Lance
+Miniature Lance,D,1,55,35,10,650,Lance
+Shockstick,C,11,85,10,20,1200,Lance
+Superior Lance,B,13,70,0,10,2100,Lance
+Finn’s Lance,D,8,85,10,25,950,Lance
+Ephraim’s Lance,C,11,80,10,20,1220,Lance
+Sigurd’s Lance,B,14,85,15,15,1920,Lance
+Bronze Sword,E,3,100,0,50,350,Sword
+Iron Sword,D,5,95,0,40,520,Sword
+Steel Sword,C,8,90,0,35,840,Sword
+Silver Sword,B,11,85,0,30,1410,Sword
+Brave Sword,A,9,80,0,30,2100,Sword
+Armourslayer,D,8,80,0,25,1450,Sword
+Wyrmslayer,D,8,80,0,25,1500,Sword
+Killing Edge,C,9,90,30,30,1470,Sword
+Levin Sword,C,10,80,0,25,1600,Sword
+Rapier,E,5,90,10,35,1600,Sword
+Noble Rapier,C,8,85,10,25,2100,Sword
+Missiletainn,C,8,85,10,35,1050,Sword
+Sol,B,12,85,5,30,0,Sword
+Amatsu,A,12,60,5,30,0,Sword
+Falchion,E,5,80,0,0,0,Sword
+Exalted Falchion,E,15,80,10,0,0,Sword
+Parallel Falchion,E,12,80,5,0,0,Sword
+Mercurius,A,17,95,5,25,0,Sword
+Tyrfing,A,15,85,10,25,0,Sword
+Balmung,A,13,90,10,25,0,Sword
+Mystletainn,A,14,85,15,25,0,Sword
+Sol Katti,A,8,100,50,25,0,Sword
+Ragnell,A,15,70,0,25,0,Sword
+Tree Branch,E,1,100,0,20,100,Sword
+Glass Sword,E,11,85,0,3,600,Sword
+Soothing Sword,D,8,85,0,10,920,Sword
+Superior Edge,B,11,80,0,10,1950,Sword
+Leif’s Blade,D,4,95,30,20,820,Sword
+Roy’s Blade,D,8,95,5,25,900,Sword
+Eliwood’s Blade,C,10,85,5,20,960,Sword
+Eirika’s Blade,C,6,95,10,20,1220,Sword
+Seliph’s Blade,B,12,90,15,15,1530,Sword
+Alm’s Blade,B,15,75,10,10,1630,Sword
+Bronze Axe,E,4,80,0,50,400,Axe
+Iron Axe,D,7,75,0,40,600,Axe
+Steel Axe,C,11,70,0,35,980,Axe
+Silver Axe,B,15,65,0,30,1740,Axe
+Brave Axe,A,12,60,0,30,2400,Axe
+Hand Axe,D,3,70,0,25,750,Axe
+Short Axe,C,7,65,0,25,1750,Axe
+Tomahawk,B,10,60,0,25,2550,Axe
+Hammer,D,10,60,0,25,1850,Axe
+Bolt Axe,B,14,70,5,30,1920,Axe
+Killer Axe,C,12,70,30,30,1860,Axe
+Vengeance,B,16,75,5,30,0,Axe
+Wolf Berg,A,18,75,5,35,0,Axe
+Hauteclere,A,21,70,5,25,0,Axe
+Helswath,A,18,60,10,25,0,Axe
+Armads,A,17,80,10,25,0,Axe
+Ladle,E,1,80,0,20,100,Axe
+Glass Axe,E,15,65,0,3,600,Axe
+Imposing Axe,D,14,35,10,10,830,Axe
+Volant Axe,C,8,55,0,10,1510,Axe
+Superior Axe,B,15,60,0,10,2150,Axe
+Orsin’s Hatchet,D,4,85,5,20,960,Axe
+Titania’s Axe,C,12,80,10,20,1320,Axe
+Hector’s Axe,B,15,75,15,15,2010,Axe
+Bronze Bow,E,3,90,0,50,350,Bow
+Iron Bow,D,6,85,0,40,560,Bow
+Steel Bow,C,9,80,0,35,910,Bow
+Silver Bow,B,13,75,0,30,1560,Bow
+Brave Bow,A,10,70,0,30,2220,Bow
+Blessed Bow,C,11,70,0,35,1540,Bow
+Killer Bow,C,10,80,30,30,1680,Bow
+Longbow,C,9,70,0,25,2150,Bow
+Astra,B,14,75,5,30,0,Bow
+Parthia,A,19,95,5,25,0,Bow
+Yewfelle,A,15,85,10,25,0,Bow
+Nidhogg,A,16,75,10,25,0,Bow
+Double Bow,A,13,70,10,25,0,Bow
+Slack Bow,E,1,90,0,20,100,Bow
+Glass Bow,E,13,75,0,3,600,Bow
+Towering Bow,D,3,80,0,10,810,Bow
+Underdog Bow,D,9,75,5,15,950,Bow
+Superior Bow,B,13,70,0,10,2160,Bow
+Wolt’s Bow,C,10,85,5,25,950,Bow
+Innes’ Bow,B,13,115,10,15,1710,Bow
+Fire,E,2,90,0,45,540,Tome
+Elfire,D,5,85,0,35,980,Tome
+Arcfire,C,8,80,0,30,1440,Tome
+Bolganone,B,12,75,0,25,2000,Tome
+Valflame,A,16,80,10,25,0,Tome
+Thunder,E,3,80,5,45,630,Tome
+Elthunder,D,6,75,5,35,1050,Tome
+Arcthunder,C,10,70,10,30,1620,Tome
+Thoron,B,14,65,10,25,2200,Tome
+Mjölnir,A,18,70,20,25,0,Tome
+Wind,E,1,100,0,45,450,Tome
+Elwind,D,4,95,0,35,910,Tome
+Arcwind,C,6,90,0,30,1320,Tome
+Rexcalibur,B,10,85,0,25,1900,Tome
+Excalibur,A,13,100,30,25,0,Tome
+Forseti,A,14,90,10,25,0,Tome
+Book of Naga,A,15,80,15,25,0,Tome
+Flux,E,5,70,0,45,540,Tome
+Nosferatu,D,7,65,0,20,980,Tome
+Ruin,C,4,60,50,20,1380,Tome
+Waste,B,10,45,0,30,2160,Tome
+Goetia,A,19,75,10,25,0,Tome
+Grima’s Truth,B,12,80,0,0,0,Tome
+Mire,C,10,65,0,10,2000,Tome
+Dying Blaze,E,10,75,0,3,600,Tome
+Micaiah’s Pyre,B,13,85,5,15,2130,Tome
+Superior Jolt,B,14,60,15,10,2320,Tome
+Katarina’s Bolt,C,11,75,30,20,1920,Tome
+Wilderwind,D,2,70,35,5,760,Tome
+Celica’s Gale,C,4,80,5,20,1720,Tome
+Aversa’s Night,B,15,75,0,10,2340,Tome
+Beaststone,E,6,80,0,50,2000,BeastStone
+Beaststone+,E,10,70,0,35,3220,BeastStone
+Dragonstone,E,8,80,0,50,2300,DragonStone
+Dragonstone+,E,12,70,0,35,3780,DragonStone
+Heal,E,0,0,0,30,600,Staff
+Mend,D,0,0,0,20,1000,Staff
+Physic,C,0,0,0,10,1800,Staff
+Recover,B,0,0,0,15,1950,Staff
+Fortify,A,0,0,0,5,2500,Staff
+Goddess Staff,A,0,0,0,1,0,Staff
+Rescue,E,0,0,0,5,1280,Staff
+Ward,C,0,0,0,5,2100,Staff
+Hammerne,B,0,0,0,1,2000,Staff
+Kneader,E,0,0,0,20,100,Staff
+Balmwood Staff,D,0,0,0,15,1200,Staff
+Catharsis,B,0,0,0,5,2100,Staff

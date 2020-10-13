@@ -1,0 +1,45 @@
+﻿BaseClass,Weapons
+Lord,Sword
+Great Lord,Sword-Lance
+Tactician,Sword-Tome
+Grandmaster,Sword-Tome
+Cavalier,Sword-Lance
+Paladin,Sword-Lance
+Knight,Lance
+General,Lance-Axe
+Great Knight,Sword-Lance-Axe
+Myrmidon,Sword
+Swordmaster,Sword 
+Thief,Sword 
+Trickster,Sword-Staff
+Assassin,Sword-Bow
+Barbarian,Axe
+Berserker,Axe
+Fighter,Axe
+Warrior,Axe-Bow
+Mercenary,Sword
+Hero,Sword-Axe
+Archer,Bow
+Sniper,Bow 
+Bow Knight,Sword-Bow
+Dark Mage,Tome
+Sorcerer,Tome 
+Mage,Tome 
+Sage,Tome-Staff
+Dark Knight,Sword-Tome
+Cleric,Staff
+Priest,Staff
+War Cleric,Staff-Axe
+War Monk,Staff-Axe
+Troubadour,Staff
+Valkyrie,Staff-Tome
+Pegasus Knight,Lance
+Falcon Knight,Lance-Staff
+Dark Flier,Lance-Tome
+Wyvern Rider,Axe
+Wyvern Lord,Axe-Lance
+Griffon Rider,Axe
+Villager,Lance
+Dancer,Sword
+Taguel,BeastStone
+Manakete,DragonStone

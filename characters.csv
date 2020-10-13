@@ -1,0 +1,46 @@
+Name,OptionsList,Type,Gender,UnlockLvl
+Avatar (F),Tactician-Knight-Cavalier-Archer-Myrmidon-Mercenary-Mage-Dark Mage-Thief-Pegasus Knight-Wyvern Rider-Cleric-Troubadour,Main,F,0
+Avatar (M),Tactician-Knight-Cavalier-Archer-Myrmidon-Mercenary-Mage-Dark Mage-Thief-Fighter-Wyvern Rider-Priest-Barbarian,Main,M,0
+Chrom,Lord-Cavalier-Archer,Main,M,0
+Lissa,Cleric-Pegasus Knight-Troubadour,Main,F,0
+Frederick,Cavalier-Knight-Wyvern Rider,Main,M,0
+Sully,Cavalier-Myrmidon-Wyvern Rider,Main,F,1
+Virion,Archer-Wyvern Rider-Mage,Main,M,1
+Stahl,Cavalier-Archer-Myrmidon,Main,M,2
+Vaike,Fighter-Thief-Barbarian,Main,M,2
+Miriel,Mage-Troubadour-Dark Mage,Main,F,2
+Sumia,Pegasus Knight-Knight-Cleric,Main,F,3
+Kellam,Knight-Thief-Priest,Main,M,3
+Donnel,Villager-Fighter-Mercenary,Main,M,P1
+Lonqu,Myrmidon-Thief-Wyvern Rider,Main,M,4
+Ricken,Mage-Cavalier-Archer,Main,M,5
+Maribelle,Troubadour-Pegasus Knight-Mage,Main,F,5
+Panne,Taguel-Thief-Wyvern Rider,Main,F,6
+Gaius,Thief-Fighter-Myrmidon,Main,M,6
+Cordelia,Pegasus Knight-Mercenary-Dark Mage,Main,F,7
+Gregor,Mercenary-Barbarian-Myrmidon,Main,M,8
+Nowi,Manakete-Mage-Wyvern Rider,Main,F,8
+Libra,Priest-Mage-Dark Mage,Main,M,9
+Tharja,Dark Mage-Knight-Archer,Main,F,9
+Anna,Thief-Archer-Mage,Main,F,P4
+Olivia,Dancer-Myrmidon-Pegasus Knight,Main,F,11
+Cherche,Wyvern Rider-Troubadour-Cleric,Main,F,12
+Henry,Dark Mage-Barbarian-Thief,Main,M,13
+Sayri,Myrmidon-Pegasus Knight-Wyvern Rider,Main,F,15
+Tiki,Manakete-Wyvern Rider-Mage,Main,F,P17
+Basilio,Fighter-Barbarian-Knight,Main,M,23
+Flavia,Mercenary-Thief-Knight,Main,F,23
+Lucina,Lord-Cavalier-Archer,Child,F,13
+Owain,Myrmidon-Priest-Barbarian,Child,M,P5
+Inigo,Mercenary-Myrmidon-Barbarian,Child,M,P6
+Brady,Priest-Cavalier-Mage,Child,M,P7
+Kjelle,Knight-Myrmidon-Cavalier-Wyvern Ride,Child,F,P8
+Cynthia,Pegasus Knight-Knight-Cleric,Child,F,P9
+Severa,Mercenary-Pegasus Knight-Dark Mage,Child,F,P10
+Gerome,Wyvern Rider-Fighter-Priest,Child,M,P11
+Morgan (F),Tactician-Knight-Cavalier-Archer-Myrmidon-Mercenary-Mage-Dark Mage-Thief-Pegasus Knight-Wyvern Rider-Cleric-Troubadour-Dancer-Manakete-Taguel,Child,F,P12
+Morgan (M),Tactician-Knight-Cavalier-Archer-Myrmidon-Mercenary-Mage-Dark Mage-Thief-Fighter-Wyvern Rider-Priest-Barbarian,Child,M,P12
+Yarne,Taguel-Thief-Barbarian,Child,M,P13
+Laurent,Mage-Barbarian-Dark Mage,Child,M,P14
+Noire,Archer-Knight-Dark Mage,Child,F,P15
+Nah,Manakete-Wyvern Rider-Mage,Child,F,P16
