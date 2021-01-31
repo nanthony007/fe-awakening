@@ -1,0 +1,445 @@
+First,Partner
+Robin (M),Lissa
+Robin (M),Sully
+Robin (M),Miriel
+Robin (M),Sumia
+Robin (M),Maribelle
+Robin (M),Panne
+Robin (M),Cordelia
+Robin (M),Nowi
+Robin (M),Tharja
+Robin (M),Olivia
+Robin (M),Cherche
+Robin (M),Lucina
+Robin (M),Say'ri
+Robin (M),Flavia
+Robin (M),Anna
+Robin (M),Kjelle
+Robin (M),Cynthia
+Robin (M),Severa
+Robin (M),Noire
+Robin (M),Nah
+Robin (M),Tiki
+Robin (M),Emmeryn
+Robin (M),Aversa
+Robin (F),Chrom
+Robin (F),Frederick
+Robin (F),Virion
+Robin (F),Vaike
+Robin (F),Stahl
+Robin (F),Kellam
+Robin (F),Lon'qu
+Robin (F),Ricken
+Robin (F),Gaius
+Robin (F),Gregor
+Robin (F),Libra
+Robin (F),Henry
+Robin (F),Basilio
+Robin (F),Donnel
+Robin (F),Owain
+Robin (F),Inigo
+Robin (F),Brady
+Robin (F),Gerome
+Robin (F),Yarne
+Robin (F),Laurent
+Robin (F),Gangrel
+Robin (F),Walhart
+Robin (F),Yen'fay
+Robin (F),Priam
+Chrom,Robin (F)
+Chrom,Sully
+Chrom,Sumia
+Chrom,Maribelle
+Chrom,Olivia
+Lissa,Robin (M)
+Lissa,Frederick
+Lissa,Virion
+Lissa,Vaike
+Lissa,Stahl
+Lissa,Kellam
+Lissa,Lon'qu
+Lissa,Ricken
+Lissa,Gaius
+Lissa,Gregor
+Lissa,Libra
+Lissa,Henry
+Lissa,Donnel
+Frederick,Robin (F)
+Frederick,Lissa
+Frederick,Sully
+Frederick,Miriel
+Frederick,Sumia
+Frederick,Maribelle
+Frederick,Panne
+Frederick,Cordelia
+Frederick,Nowi
+Frederick,Tharja
+Frederick,Olivia
+Frederick,Cherche
+Virion,Robin (F)
+Virion,Lissa
+Virion,Sully
+Virion,Miriel
+Virion,Maribelle
+Virion,Panne
+Virion,Cordelia
+Virion,Nowi
+Virion,Tharja
+Virion,Olivia
+Virion,Cherche
+Vaike,Robin (F)
+Vaike,Lissa
+Vaike,Sully
+Vaike,Miriel
+Vaike,Maribelle
+Vaike,Panne
+Vaike,Cordelia
+Vaike,Nowi
+Vaike,Tharja
+Vaike,Olivia
+Vaike,Cherche
+Stahl,Robin (F)
+Stahl,Lissa
+Stahl,Sully
+Stahl,Miriel
+Stahl,Maribelle
+Stahl,Panne
+Stahl,Cordelia
+Stahl,Nowi
+Stahl,Tharja
+Stahl,Olivia
+Stahl,Cherche
+Kellam,Robin (F)
+Kellam,Lissa
+Kellam,Sully
+Kellam,Miriel
+Kellam,Maribelle
+Kellam,Panne
+Kellam,Cordelia
+Kellam,Nowi
+Kellam,Tharja
+Kellam,Olivia
+Kellam,Cherche
+Lon'qu,Robin (F)
+Lon'qu,Lissa
+Lon'qu,Sully
+Lon'qu,Miriel
+Lon'qu,Maribelle
+Lon'qu,Panne
+Lon'qu,Cordelia
+Lon'qu,Nowi
+Lon'qu,Tharja
+Lon'qu,Olivia
+Lon'qu,Cherche
+Ricken,Robin (F)
+Ricken,Lissa
+Ricken,Sully
+Ricken,Miriel
+Ricken,Maribelle
+Ricken,Panne
+Ricken,Cordelia
+Ricken,Nowi
+Ricken,Tharja
+Ricken,Olivia
+Ricken,Cherche
+Gregor,Robin (F)
+Gregor,Lissa
+Gregor,Sully
+Gregor,Miriel
+Gregor,Maribelle
+Gregor,Panne
+Gregor,Cordelia
+Gregor,Nowi
+Gregor,Tharja
+Gregor,Olivia
+Gregor,Cherche
+Libra,Robin (F)
+Libra,Lissa
+Libra,Sully
+Libra,Miriel
+Libra,Maribelle
+Libra,Panne
+Libra,Cordelia
+Libra,Nowi
+Libra,Tharja
+Libra,Olivia
+Libra,Cherche
+Donnel,Robin (F)
+Donnel,Lissa
+Donnel,Sully
+Donnel,Miriel
+Donnel,Maribelle
+Donnel,Panne
+Donnel,Cordelia
+Donnel,Nowi
+Donnel,Tharja
+Donnel,Olivia
+Donnel,Cherche
+Gauis,Robin (F)
+Gauis,Lissa
+Gauis,Sully
+Gauis,Miriel
+Gauis,Sumia
+Gauis,Maribelle
+Gauis,Panne
+Gauis,Cordelia
+Gauis,Nowi
+Gauis,Tharja
+Gauis,Olivia
+Gauis,Cherche
+Henry,Robin (F)
+Henry,Lissa
+Henry,Sully
+Henry,Miriel
+Henry,Sumia
+Henry,Maribelle
+Henry,Panne
+Henry,Cordelia
+Henry,Nowi
+Henry,Tharja
+Henry,Olivia
+Henry,Cherche
+Miriel,Robin (M)
+Miriel,Frederick
+Miriel,Virion
+Miriel,Vaike
+Miriel,Stahl
+Miriel,Kellam
+Miriel,Lon'qu
+Miriel,Ricken
+Miriel,Gaius
+Miriel,Gregor
+Miriel,Libra
+Miriel,Henry
+Miriel,Donnel
+Panne,Robin (M)
+Panne,Frederick
+Panne,Virion
+Panne,Vaike
+Panne,Stahl
+Panne,Kellam
+Panne,Lon'qu
+Panne,Ricken
+Panne,Gaius
+Panne,Gregor
+Panne,Libra
+Panne,Henry
+Panne,Donnel
+Cordelia,Robin (M)
+Cordelia,Frederick
+Cordelia,Virion
+Cordelia,Vaike
+Cordelia,Stahl
+Cordelia,Kellam
+Cordelia,Lon'qu
+Cordelia,Ricken
+Cordelia,Gaius
+Cordelia,Gregor
+Cordelia,Libra
+Cordelia,Henry
+Cordelia,Donnel
+Nowi,Robin (M)
+Nowi,Frederick
+Nowi,Virion
+Nowi,Vaike
+Nowi,Stahl
+Nowi,Kellam
+Nowi,Lon'qu
+Nowi,Ricken
+Nowi,Gaius
+Nowi,Gregor
+Nowi,Libra
+Nowi,Henry
+Nowi,Donnel
+Tharja,Robin (M)
+Tharja,Frederick
+Tharja,Virion
+Tharja,Vaike
+Tharja,Stahl
+Tharja,Kellam
+Tharja,Lon'qu
+Tharja,Ricken
+Tharja,Gaius
+Tharja,Gregor
+Tharja,Libra
+Tharja,Henry
+Tharja,Donnel
+Cherche,Robin (M)
+Cherche,Frederick
+Cherche,Virion
+Cherche,Vaike
+Cherche,Stahl
+Cherche,Kellam
+Cherche,Lon'qu
+Cherche,Ricken
+Cherche,Gaius
+Cherche,Gregor
+Cherche,Libra
+Cherche,Henry
+Cherche,Donnel
+Olivia,Robin (M)
+Olivia,Chrom
+Olivia,Frederick
+Olivia,Virion
+Olivia,Vaike
+Olivia,Stahl
+Olivia,Kellam
+Olivia,Lon'qu
+Olivia,Ricken
+Olivia,Gaius
+Olivia,Gregor
+Olivia,Libra
+Olivia,Henry
+Olivia,Donnel
+Maribelle,Robin (M)
+Maribelle,Chrom
+Maribelle,Frederick
+Maribelle,Virion
+Maribelle,Vaike
+Maribelle,Stahl
+Maribelle,Kellam
+Maribelle,Lon'qu
+Maribelle,Ricken
+Maribelle,Gaius
+Maribelle,Gregor
+Maribelle,Libra
+Maribelle,Henry
+Maribelle,Donnel
+Sully,Robin (M)
+Sully,Chrom
+Sully,Frederick
+Sully,Virion
+Sully,Vaike
+Sully,Stahl
+Sully,Kellam
+Sully,Lon'qu
+Sully,Ricken
+Sully,Gaius
+Sully,Gregor
+Sully,Libra
+Sully,Henry
+Sully,Donnel
+Sumia,Robin (M)
+Sumia,Chrom
+Sumia,Frederick
+Sumia,Gaius
+Sumia,Henry
+Lucina,Robin (M)
+Lucina,Owain
+Lucina,Inigo
+Lucina,Brady
+Lucina,Gerome
+Lucina,Morgan (M)
+Lucina,Yarne
+Lucina,Laurent
+Say'ri,Robin (M)
+Basilio,Robin (F)
+Flavia,Robin (M)
+Anna,Robin (M)
+Owain,Robin (F)
+Owain,Lucina
+Owain,Kjelle
+Owain,Cynthia
+Owain,Severa
+Owain,Morgan (F)
+Owain,Noire
+Owain,Nah
+Inigo,Robin (F)
+Inigo,Lucina
+Inigo,Kjelle
+Inigo,Cynthia
+Inigo,Severa
+Inigo,Morgan (F)
+Inigo,Noire
+Inigo,Nah
+Brady,Robin (F)
+Brady,Lucina
+Brady,Kjelle
+Brady,Cynthia
+Brady,Severa
+Brady,Morgan (F)
+Brady,Noire
+Brady,Nah
+Gerome,Robin (F)
+Gerome,Lucina
+Gerome,Kjelle
+Gerome,Cynthia
+Gerome,Severa
+Gerome,Morgan (F)
+Gerome,Noire
+Gerome,Nah
+Yarne,Robin (F)
+Yarne,Lucina
+Yarne,Kjelle
+Yarne,Cynthia
+Yarne,Severa
+Yarne,Morgan (F)
+Yarne,Noire
+Yarne,Nah
+Laurent,Robin (F)
+Laurent,Lucina
+Laurent,Kjelle
+Laurent,Cynthia
+Laurent,Severa
+Laurent,Morgan (F)
+Laurent,Noire
+Laurent,Nah
+Kjelle,Robin (M)
+Kjelle,Owain
+Kjelle,Inigo
+Kjelle,Brady
+Kjelle,Gerome
+Kjelle,Morgan (M)
+Kjelle,Yarne
+Kjelle,Laurent
+Cynthia,Robin (M)
+Cynthia,Owain
+Cynthia,Inigo
+Cynthia,Brady
+Cynthia,Gerome
+Cynthia,Morgan (M)
+Cynthia,Yarne
+Cynthia,Laurent
+Severa,Robin (M)
+Severa,Owain
+Severa,Inigo
+Severa,Brady
+Severa,Gerome
+Severa,Morgan (M)
+Severa,Yarne
+Severa,Laurent
+Noire,Robin (M)
+Noire,Owain
+Noire,Inigo
+Noire,Brady
+Noire,Gerome
+Noire,Morgan (M)
+Noire,Yarne
+Noire,Laurent
+Nah,Robin (M)
+Nah,Owain
+Nah,Inigo
+Nah,Brady
+Nah,Gerome
+Nah,Morgan (M)
+Nah,Yarne
+Nah,Laurent
+Morgan (M),Lucina
+Morgan (M),Kjelle
+Morgan (M),Cynthia
+Morgan (M),Severa
+Morgan (M),Noire
+Morgan (M),Nah
+Morgan (F),Owain
+Morgan (F),Inigo
+Morgan (F),Brady
+Morgan (F),Gerome
+Morgan (F),Yarne
+Morgan (F),Laurent
+Tiki,Robin (M)
+Gangrel,Robin (F)
+Walhart,Robin (F)
+Emmeryn,Robin (M)
+Yen'fay,Robin (F)
+Aversa,Robin (M)
+Priam,Robin (F)

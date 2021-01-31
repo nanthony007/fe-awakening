@@ -4,7 +4,7 @@ This module contains the data containers
 representing the graph nodes and relationships
 """
 
-from py2neo.ogm import Model, Property, Related, RelatedTo
+from py2neo.ogm import Model, Property, Related, RelatedTo, Repository
 
 
 class Character(Model):
