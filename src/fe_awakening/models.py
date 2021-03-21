@@ -4,20 +4,18 @@ from __future__ import annotations
 
 from enum import Enum, auto
 from typing import Union
-
 from pydantic import BaseModel
-from pydantic.main import BaseConfig
 
 # TODO: add use_enum_values to classes that use enums
 # ? add validate_all to meta config of classes?
 
 
-class Gender(Enum):
-    FEMALE = auto()
-    MALE = auto()
+class Gender(int, Enum):
+    F = auto()
+    M = auto()
 
 
-class WeaponType(Enum):
+class WeaponType(int, Enum):
     AXE = auto()
     BEASTSTONE = auto()
     BOW = auto()
@@ -28,27 +26,23 @@ class WeaponType(Enum):
     TOME = auto()
 
 
-class MyConfig(BaseConfig):
-    frozen = True
-    use_enum_values = True
-
-
-class Character(BaseModel, config=MyConfig):
+class Character(BaseModel):
     name: str
-    unlock_lvl: int
     gender: Gender
-    can_marry: tuple[Character]
-    child: Character
+    unlock_episode: str
+    class_options: Union[list[str], None] = None
+    can_marry: Union[list[str], None] = None
+    child: Union[str, None] = None
 
 
-class Skill(BaseModel, config=MyConfig):
+class Skill(BaseModel):
     name: str
-    level_unlocked: int
+    unlock_level: int
     # activation_rate: str
     description: str
 
 
-class StarterClass(BaseModel, config=MyConfig):
+class StarterClass(BaseModel):
     name: str
     hitpoints: int
     strength: int
@@ -58,13 +52,13 @@ class StarterClass(BaseModel, config=MyConfig):
     luck: int
     defense: int
     resistance: int
-    gender_lock: Union[Gender, None] = None
-    abilities: tuple[Skill]
-    uses: tuple[Weapon]
-    promotes_to: tuple[AdvancedClass]
+    promotes_to: list[str]
+    gender_lock: Union[str, None] = None
+    abilities: Union[list[Skill], None] = None
+    weapon_options: Union[list[WeaponType], None] = None
 
 
-class AdvancedClass(BaseModel, config=MyConfig):
+class AdvancedClass(BaseModel):
     name: str
     hitpoints: int
     strength: int
@@ -74,12 +68,12 @@ class AdvancedClass(BaseModel, config=MyConfig):
     luck: int
     defense: int
     resistance: int
-    gender_lock: Gender
-    abilities: tuple[Skill]
-    uses: tuple[Weapon]
+    gender_lock: Union[str, None] = None
+    abilities: Union[list[Skill], None] = None
+    weapon_options: Union[list[WeaponType], None] = None
 
 
-class Weapon(BaseModel, config=MyConfig):
+class Weapon(BaseModel):
     name: str
     rank: str
     might: int
@@ -88,6 +82,3 @@ class Weapon(BaseModel, config=MyConfig):
     uses: int
     worth: int
     kind: WeaponType
-
-
-Character.update_forward_refs()
