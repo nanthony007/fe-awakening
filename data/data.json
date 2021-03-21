@@ -1,0 +1,3732 @@
+﻿{
+    "characters": [
+        {
+            "can_marry": [
+                "Chrom"
+            ],
+            "child": "Morgan (M)",
+            "class_options": [
+                "Tactician",
+                "Knight",
+                "Cavalier",
+                "Archer",
+                "Myrmidon",
+                "Mercenary",
+                "Mage",
+                "Dark Mage",
+                "Thief",
+                "Pegasus Knight",
+                "Wyvern Rider",
+                "Cleric",
+                "Troubadour"
+            ],
+            "gender": 1,
+            "name": "Avatar (F)",
+            "unlock_episode": "0"
+        },
+        {
+            "can_marry": null,
+            "child": "Morgan (F)",
+            "class_options": [
+                "Tactician",
+                "Knight",
+                "Cavalier",
+                "Archer",
+                "Myrmidon",
+                "Mercenary",
+                "Mage",
+                "Dark Mage",
+                "Thief",
+                "Fighter",
+                "Wyvern Rider",
+                "Priest",
+                "Barbarian"
+            ],
+            "gender": 2,
+            "name": "Avatar (M)",
+            "unlock_episode": "0"
+        },
+        {
+            "can_marry": [
+                "Avatar (F)",
+                "Sully",
+                "Sumia",
+                "Maribelle",
+                "Olivia"
+            ],
+            "child": "Lucina",
+            "class_options": [
+                "Lord",
+                "Cavalier",
+                "Archer"
+            ],
+            "gender": 2,
+            "name": "Chrom",
+            "unlock_episode": "0"
+        },
+        {
+            "can_marry": [
+                "Frederick",
+                "Virion",
+                "Stahl",
+                "Vaike",
+                "Kellam",
+                "Donnel",
+                "Lonqu",
+                "Ricken",
+                "Gaius",
+                "Gregor",
+                "Libra",
+                "Henry"
+            ],
+            "child": "Owain",
+            "class_options": [
+                "Cleric",
+                "Pegasus Knight",
+                "Troubadour"
+            ],
+            "gender": 1,
+            "name": "Lissa",
+            "unlock_episode": "0"
+        },
+        {
+            "can_marry": [
+                "Lissa",
+                "Sully",
+                "Miriel",
+                "Sumia",
+                "Maribelle",
+                "Panne",
+                "Cordelia",
+                "Nowi",
+                "Tharja",
+                "Olivia",
+                "Cherche"
+            ],
+            "child": null,
+            "class_options": [
+                "Cavalier",
+                "Knight",
+                "Wyvern Rider"
+            ],
+            "gender": 2,
+            "name": "Frederick",
+            "unlock_episode": "0"
+        },
+        {
+            "can_marry": [
+                "Chrom",
+                "Frederick",
+                "Virion",
+                "Stahl",
+                "Vaike",
+                "Kellam",
+                "Donnel",
+                "Lonqu",
+                "Ricken",
+                "Gaius",
+                "Gregor",
+                "Libra",
+                "Henry"
+            ],
+            "child": "Kjelle",
+            "class_options": [
+                "Cavalier",
+                "Myrmidon",
+                "Wyvern Rider"
+            ],
+            "gender": 1,
+            "name": "Sully",
+            "unlock_episode": "1"
+        },
+        {
+            "can_marry": [
+                "Lissa",
+                "Sully",
+                "Miriel",
+                "Maribelle",
+                "Panne",
+                "Cordelia",
+                "Nowi",
+                "Tharja",
+                "Olivia",
+                "Cherche"
+            ],
+            "child": null,
+            "class_options": [
+                "Archer",
+                "Wyvern Rider",
+                "Mage"
+            ],
+            "gender": 2,
+            "name": "Virion",
+            "unlock_episode": "1"
+        },
+        {
+            "can_marry": [
+                "Lissa",
+                "Sully",
+                "Miriel",
+                "Maribelle",
+                "Panne",
+                "Cordelia",
+                "Nowi",
+                "Tharja",
+                "Olivia",
+                "Cherche"
+            ],
+            "child": null,
+            "class_options": [
+                "Cavalier",
+                "Archer",
+                "Myrmidon"
+            ],
+            "gender": 2,
+            "name": "Stahl",
+            "unlock_episode": "2"
+        },
+        {
+            "can_marry": [
+                "Lissa",
+                "Sully",
+                "Miriel",
+                "Maribelle",
+                "Panne",
+                "Cordelia",
+                "Nowi",
+                "Tharja",
+                "Olivia",
+                "Cherche"
+            ],
+            "child": null,
+            "class_options": [
+                "Fighter",
+                "Thief",
+                "Barbarian"
+            ],
+            "gender": 2,
+            "name": "Vaike",
+            "unlock_episode": "2"
+        },
+        {
+            "can_marry": [
+                "Frederick",
+                "Virion",
+                "Stahl",
+                "Vaike",
+                "Kellam",
+                "Donnel",
+                "Lonqu",
+                "Ricken",
+                "Gaius",
+                "Gregor",
+                "Libra",
+                "Henry"
+            ],
+            "child": "Laurent",
+            "class_options": [
+                "Mage",
+                "Troubadour",
+                "Dark Mage"
+            ],
+            "gender": 1,
+            "name": "Miriel",
+            "unlock_episode": "2"
+        },
+        {
+            "can_marry": [
+                "Chrom",
+                "Frederick",
+                "Gaius",
+                "Henry"
+            ],
+            "child": "Cynthia",
+            "class_options": [
+                "Pegasus Knight",
+                "Knight",
+                "Cleric"
+            ],
+            "gender": 1,
+            "name": "Sumia",
+            "unlock_episode": "3"
+        },
+        {
+            "can_marry": [
+                "Lissa",
+                "Sully",
+                "Miriel",
+                "Maribelle",
+                "Panne",
+                "Cordelia",
+                "Nowi",
+                "Tharja",
+                "Olivia",
+                "Cherche"
+            ],
+            "child": null,
+            "class_options": [
+                "Knight",
+                "Thief",
+                "Priest"
+            ],
+            "gender": 2,
+            "name": "Kellam",
+            "unlock_episode": "3"
+        },
+        {
+            "can_marry": [
+                "Lissa",
+                "Sully",
+                "Miriel",
+                "Maribelle",
+                "Panne",
+                "Cordelia",
+                "Nowi",
+                "Tharja",
+                "Olivia",
+                "Cherche"
+            ],
+            "child": null,
+            "class_options": [
+                "Villager",
+                "Fighter",
+                "Mercenary"
+            ],
+            "gender": 2,
+            "name": "Donnel",
+            "unlock_episode": "P1"
+        },
+        {
+            "can_marry": [
+                "Lissa",
+                "Sully",
+                "Miriel",
+                "Maribelle",
+                "Panne",
+                "Cordelia",
+                "Nowi",
+                "Tharja",
+                "Olivia",
+                "Cherche"
+            ],
+            "child": null,
+            "class_options": [
+                "Myrmidon",
+                "Thief",
+                "Wyvern Rider"
+            ],
+            "gender": 2,
+            "name": "Lonqu",
+            "unlock_episode": "4"
+        },
+        {
+            "can_marry": [
+                "Lissa",
+                "Sully",
+                "Miriel",
+                "Maribelle",
+                "Panne",
+                "Cordelia",
+                "Nowi",
+                "Tharja",
+                "Olivia",
+                "Cherche"
+            ],
+            "child": null,
+            "class_options": [
+                "Mage",
+                "Cavalier",
+                "Archer"
+            ],
+            "gender": 2,
+            "name": "Ricken",
+            "unlock_episode": "5"
+        },
+        {
+            "can_marry": [
+                "Chrom",
+                "Frederick",
+                "Virion",
+                "Stahl",
+                "Vaike",
+                "Kellam",
+                "Donnel",
+                "Lonqu",
+                "Ricken",
+                "Gaius",
+                "Gregor",
+                "Libra",
+                "Henry"
+            ],
+            "child": "Brady",
+            "class_options": [
+                "Troubadour",
+                "Pegasus Knight",
+                "Mage"
+            ],
+            "gender": 1,
+            "name": "Maribelle",
+            "unlock_episode": "5"
+        },
+        {
+            "can_marry": [
+                "Frederick",
+                "Virion",
+                "Stahl",
+                "Vaike",
+                "Kellam",
+                "Donnel",
+                "Lonqu",
+                "Ricken",
+                "Gaius",
+                "Gregor",
+                "Libra",
+                "Henry"
+            ],
+            "child": "Yarne",
+            "class_options": [
+                "Taguel",
+                "Thief",
+                "Wyvern Rider"
+            ],
+            "gender": 1,
+            "name": "Panne",
+            "unlock_episode": "6"
+        },
+        {
+            "can_marry": [
+                "Lissa",
+                "Sully",
+                "Miriel",
+                "Sumia",
+                "Maribelle",
+                "Panne",
+                "Cordelia",
+                "Nowi",
+                "Tharja",
+                "Olivia",
+                "Cherche"
+            ],
+            "child": null,
+            "class_options": [
+                "Thief",
+                "Fighter",
+                "Myrmidon"
+            ],
+            "gender": 2,
+            "name": "Gaius",
+            "unlock_episode": "6"
+        },
+        {
+            "can_marry": [
+                "Frederick",
+                "Virion",
+                "Stahl",
+                "Vaike",
+                "Kellam",
+                "Donnel",
+                "Lonqu",
+                "Ricken",
+                "Gaius",
+                "Gregor",
+                "Libra",
+                "Henry"
+            ],
+            "child": "Severa",
+            "class_options": [
+                "Pegasus Knight",
+                "Mercenary",
+                "Dark Mage"
+            ],
+            "gender": 1,
+            "name": "Cordelia",
+            "unlock_episode": "7"
+        },
+        {
+            "can_marry": [
+                "Lissa",
+                "Sully",
+                "Miriel",
+                "Maribelle",
+                "Panne",
+                "Cordelia",
+                "Nowi",
+                "Tharja",
+                "Olivia",
+                "Cherche"
+            ],
+            "child": null,
+            "class_options": [
+                "Mercenary",
+                "Barbarian",
+                "Myrmidon"
+            ],
+            "gender": 2,
+            "name": "Gregor",
+            "unlock_episode": "8"
+        },
+        {
+            "can_marry": [
+                "Frederick",
+                "Virion",
+                "Stahl",
+                "Vaike",
+                "Kellam",
+                "Donnel",
+                "Lonqu",
+                "Ricken",
+                "Gaius",
+                "Gregor",
+                "Libra",
+                "Henry"
+            ],
+            "child": "Nah",
+            "class_options": [
+                "Manakete",
+                "Mage",
+                "Wyvern Rider"
+            ],
+            "gender": 1,
+            "name": "Nowi",
+            "unlock_episode": "8"
+        },
+        {
+            "can_marry": [
+                "Lissa",
+                "Sully",
+                "Miriel",
+                "Maribelle",
+                "Panne",
+                "Cordelia",
+                "Nowi",
+                "Tharja",
+                "Olivia",
+                "Cherche"
+            ],
+            "child": null,
+            "class_options": [
+                "Priest",
+                "Mage",
+                "Dark Mage"
+            ],
+            "gender": 2,
+            "name": "Libra",
+            "unlock_episode": "9"
+        },
+        {
+            "can_marry": [
+                "Frederick",
+                "Virion",
+                "Stahl",
+                "Vaike",
+                "Kellam",
+                "Donnel",
+                "Lonqu",
+                "Ricken",
+                "Gaius",
+                "Gregor",
+                "Libra",
+                "Henry"
+            ],
+            "child": "Noire",
+            "class_options": [
+                "Dark Mage",
+                "Knight",
+                "Archer"
+            ],
+            "gender": 1,
+            "name": "Tharja",
+            "unlock_episode": "9"
+        },
+        {
+            "can_marry": null,
+            "child": null,
+            "class_options": [
+                "Thief",
+                "Archer",
+                "Mage"
+            ],
+            "gender": 1,
+            "name": "Anna",
+            "unlock_episode": "P4"
+        },
+        {
+            "can_marry": [
+                "Chrom",
+                "Frederick",
+                "Virion",
+                "Stahl",
+                "Vaike",
+                "Kellam",
+                "Donnel",
+                "Lonqu",
+                "Ricken",
+                "Gaius",
+                "Gregor",
+                "Libra",
+                "Henry"
+            ],
+            "child": "Inigo",
+            "class_options": [
+                "Dancer",
+                "Myrmidon",
+                "Pegasus Knight"
+            ],
+            "gender": 1,
+            "name": "Olivia",
+            "unlock_episode": "11"
+        },
+        {
+            "can_marry": [
+                "Frederick",
+                "Virion",
+                "Stahl",
+                "Vaike",
+                "Kellam",
+                "Donnel",
+                "Lonqu",
+                "Ricken",
+                "Gaius",
+                "Gregor",
+                "Libra",
+                "Henry"
+            ],
+            "child": "Gerome",
+            "class_options": [
+                "Wyvern Rider",
+                "Troubadour",
+                "Cleric"
+            ],
+            "gender": 1,
+            "name": "Cherche",
+            "unlock_episode": "12"
+        },
+        {
+            "can_marry": [
+                "Lissa",
+                "Sully",
+                "Miriel",
+                "Sumia",
+                "Maribelle",
+                "Panne",
+                "Cordelia",
+                "Nowi",
+                "Tharja",
+                "Olivia",
+                "Cherche"
+            ],
+            "child": null,
+            "class_options": [
+                "Dark Mage",
+                "Barbarian",
+                "Thief"
+            ],
+            "gender": 2,
+            "name": "Henry",
+            "unlock_episode": "13"
+        },
+        {
+            "can_marry": null,
+            "child": null,
+            "class_options": [
+                "Myrmidon",
+                "Pegasus Knight",
+                "Wyvern Rider"
+            ],
+            "gender": 1,
+            "name": "Sayri",
+            "unlock_episode": "15"
+        },
+        {
+            "can_marry": null,
+            "child": null,
+            "class_options": [
+                "Manakete",
+                "Wyvern Rider",
+                "Mage"
+            ],
+            "gender": 1,
+            "name": "Tiki",
+            "unlock_episode": "P17"
+        },
+        {
+            "can_marry": null,
+            "child": null,
+            "class_options": [
+                "Fighter",
+                "Barbarian",
+                "Knight"
+            ],
+            "gender": 2,
+            "name": "Basilio",
+            "unlock_episode": "23"
+        },
+        {
+            "can_marry": null,
+            "child": null,
+            "class_options": [
+                "Mercenary",
+                "Thief",
+                "Knight"
+            ],
+            "gender": 1,
+            "name": "Flavia",
+            "unlock_episode": "23"
+        },
+        {
+            "can_marry": [
+                "Owain",
+                "Inigo",
+                "Brady",
+                "Gerome",
+                "Morgan (M)",
+                "Yarne",
+                "Laurent"
+            ],
+            "child": null,
+            "class_options": [
+                "Lord",
+                "Cavalier",
+                "Archer"
+            ],
+            "gender": 1,
+            "name": "Lucina",
+            "unlock_episode": "13"
+        },
+        {
+            "can_marry": [
+                "Lucina",
+                "Kjelle",
+                "Cynthia",
+                "Severa",
+                "Morgan (F)",
+                "Noire",
+                "Nah"
+            ],
+            "child": null,
+            "class_options": [
+                "Myrmidon",
+                "Priest",
+                "Barbarian"
+            ],
+            "gender": 2,
+            "name": "Owain",
+            "unlock_episode": "P5"
+        },
+        {
+            "can_marry": [
+                "Lucina",
+                "Kjelle",
+                "Cynthia",
+                "Severa",
+                "Morgan (F)",
+                "Noire",
+                "Nah"
+            ],
+            "child": null,
+            "class_options": [
+                "Mercenary",
+                "Myrmidon",
+                "Barbarian"
+            ],
+            "gender": 2,
+            "name": "Inigo",
+            "unlock_episode": "P6"
+        },
+        {
+            "can_marry": [
+                "Lucina",
+                "Kjelle",
+                "Cynthia",
+                "Severa",
+                "Morgan (F)",
+                "Noire",
+                "Nah"
+            ],
+            "child": null,
+            "class_options": [
+                "Priest",
+                "Cavalier",
+                "Mage"
+            ],
+            "gender": 2,
+            "name": "Brady",
+            "unlock_episode": "P7"
+        },
+        {
+            "can_marry": [
+                "Owain",
+                "Inigo",
+                "Brady",
+                "Gerome",
+                "Morgan (M)",
+                "Yarne",
+                "Laurent"
+            ],
+            "child": null,
+            "class_options": [
+                "Knight",
+                "Myrmidon",
+                "Cavalier",
+                "Wyvern Ride"
+            ],
+            "gender": 1,
+            "name": "Kjelle",
+            "unlock_episode": "P8"
+        },
+        {
+            "can_marry": [
+                "Owain",
+                "Inigo",
+                "Brady",
+                "Gerome",
+                "Morgan (M)",
+                "Yarne",
+                "Laurent"
+            ],
+            "child": null,
+            "class_options": [
+                "Pegasus Knight",
+                "Knight",
+                "Cleric"
+            ],
+            "gender": 1,
+            "name": "Cynthia",
+            "unlock_episode": "P9"
+        },
+        {
+            "can_marry": [
+                "Owain",
+                "Inigo",
+                "Brady",
+                "Gerome",
+                "Morgan (M)",
+                "Yarne",
+                "Laurent"
+            ],
+            "child": null,
+            "class_options": [
+                "Mercenary",
+                "Pegasus Knight",
+                "Dark Mage"
+            ],
+            "gender": 1,
+            "name": "Severa",
+            "unlock_episode": "P10"
+        },
+        {
+            "can_marry": [
+                "Lucina",
+                "Kjelle",
+                "Cynthia",
+                "Severa",
+                "Morgan (F)",
+                "Noire",
+                "Nah"
+            ],
+            "child": null,
+            "class_options": [
+                "Wyvern Rider",
+                "Fighter",
+                "Priest"
+            ],
+            "gender": 2,
+            "name": "Gerome",
+            "unlock_episode": "P11"
+        },
+        {
+            "can_marry": [
+                "Owain",
+                "Inigo",
+                "Brady",
+                "Gerome",
+                "Yarne",
+                "Laurent"
+            ],
+            "child": null,
+            "class_options": [
+                "Tactician",
+                "Knight",
+                "Cavalier",
+                "Archer",
+                "Myrmidon",
+                "Mercenary",
+                "Mage",
+                "Dark Mage",
+                "Thief",
+                "Pegasus Knight",
+                "Wyvern Rider",
+                "Cleric",
+                "Troubadour",
+                "Dancer",
+                "Manakete",
+                "Taguel"
+            ],
+            "gender": 1,
+            "name": "Morgan (F)",
+            "unlock_episode": "P12"
+        },
+        {
+            "can_marry": [
+                "Lucina",
+                "Kjelle",
+                "Cynthia",
+                "Severa",
+                "Noire",
+                "Nah"
+            ],
+            "child": null,
+            "class_options": [
+                "Tactician",
+                "Knight",
+                "Cavalier",
+                "Archer",
+                "Myrmidon",
+                "Mercenary",
+                "Mage",
+                "Dark Mage",
+                "Thief",
+                "Fighter",
+                "Wyvern Rider",
+                "Priest",
+                "Barbarian"
+            ],
+            "gender": 2,
+            "name": "Morgan (M)",
+            "unlock_episode": "P12"
+        },
+        {
+            "can_marry": [
+                "Lucina",
+                "Kjelle",
+                "Cynthia",
+                "Severa",
+                "Morgan (F)",
+                "Noire",
+                "Nah"
+            ],
+            "child": null,
+            "class_options": [
+                "Taguel",
+                "Thief",
+                "Barbarian"
+            ],
+            "gender": 2,
+            "name": "Yarne",
+            "unlock_episode": "P13"
+        },
+        {
+            "can_marry": [
+                "Lucina",
+                "Kjelle",
+                "Cynthia",
+                "Severa",
+                "Morgan (F)",
+                "Noire",
+                "Nah"
+            ],
+            "child": null,
+            "class_options": [
+                "Mage",
+                "Barbarian",
+                "Dark Mage"
+            ],
+            "gender": 2,
+            "name": "Laurent",
+            "unlock_episode": "P14"
+        },
+        {
+            "can_marry": [
+                "Owain",
+                "Inigo",
+                "Brady",
+                "Gerome",
+                "Morgan (M)",
+                "Yarne",
+                "Laurent"
+            ],
+            "child": null,
+            "class_options": [
+                "Archer",
+                "Knight",
+                "Dark Mage"
+            ],
+            "gender": 1,
+            "name": "Noire",
+            "unlock_episode": "P15"
+        },
+        {
+            "can_marry": [
+                "Owain",
+                "Inigo",
+                "Brady",
+                "Gerome",
+                "Morgan (M)",
+                "Yarne",
+                "Laurent"
+            ],
+            "child": null,
+            "class_options": [
+                "Manakete",
+                "Wyvern Rider",
+                "Mage"
+            ],
+            "gender": 1,
+            "name": "Nah",
+            "unlock_episode": "P16"
+        }
+    ],
+    "classes": [
+        {
+            "abilities": [
+                {
+                    "description": "Hit rate and Avoid +5 to all allies within a 3 tile radius",
+                    "name": "Charm",
+                    "unlock_level": 10
+                },
+                {
+                    "description": "Adds 10% to\u00a0Dual Strike\u00a0activation",
+                    "name": "Dual Strike+",
+                    "unlock_level": 1
+                }
+            ],
+            "defense": 25,
+            "gender_lock": null,
+            "hitpoints": 60,
+            "luck": 30,
+            "magic": 20,
+            "name": "Lord",
+            "promotes_to": [
+                "Great Lord"
+            ],
+            "resistance": 25,
+            "skill": 26,
+            "speed": 28,
+            "strength": 25,
+            "weapon_options": [
+                7
+            ]
+        },
+        {
+            "abilities": [
+                {
+                    "description": "Critical and Critical Avoid +10 to adjacent allies",
+                    "name": "Solidarity",
+                    "unlock_level": 10
+                },
+                {
+                    "description": "x1.5 experience gain when in\u00a0Pair Up",
+                    "name": "Veteran",
+                    "unlock_level": 1
+                }
+            ],
+            "defense": 25,
+            "gender_lock": null,
+            "hitpoints": 60,
+            "luck": 30,
+            "magic": 25,
+            "name": "Tactician",
+            "promotes_to": [
+                "Grandmaster"
+            ],
+            "resistance": 25,
+            "skill": 25,
+            "speed": 25,
+            "strength": 25,
+            "weapon_options": [
+                7,
+                8
+            ]
+        },
+        {
+            "abilities": [
+                {
+                    "description": "Weapon Experience x2",
+                    "name": "Discipline",
+                    "unlock_level": 1
+                },
+                {
+                    "description": "Hit rate and Avoid +10 when fighting outdoors",
+                    "name": "Outdoor Fighter",
+                    "unlock_level": 10
+                }
+            ],
+            "defense": 26,
+            "gender_lock": null,
+            "hitpoints": 60,
+            "luck": 30,
+            "magic": 20,
+            "name": "Cavalier",
+            "promotes_to": [
+                "Great Knight",
+                "Paladin"
+            ],
+            "resistance": 26,
+            "skill": 25,
+            "speed": 25,
+            "strength": 26,
+            "weapon_options": [
+                7,
+                5
+            ]
+        },
+        {
+            "abilities": [
+                {
+                    "description": "Defense +2",
+                    "name": "Defense +2",
+                    "unlock_level": 1
+                },
+                {
+                    "description": "Hit rate and Avoid +10 when fighting indoors",
+                    "name": "Indoor Fighter",
+                    "unlock_level": 10
+                }
+            ],
+            "defense": 30,
+            "gender_lock": null,
+            "hitpoints": 60,
+            "luck": 30,
+            "magic": 20,
+            "name": "Knight",
+            "promotes_to": [
+                "General",
+                "Great Knight"
+            ],
+            "resistance": 22,
+            "skill": 26,
+            "speed": 23,
+            "strength": 30,
+            "weapon_options": [
+                5
+            ]
+        },
+        {
+            "abilities": [
+                {
+                    "description": "Avoid +10",
+                    "name": "Avoid +10",
+                    "unlock_level": 1
+                },
+                {
+                    "description": "Strike first during an enemy attack when HP is under half",
+                    "name": "Vantage",
+                    "unlock_level": 10
+                }
+            ],
+            "defense": 22,
+            "gender_lock": null,
+            "hitpoints": 60,
+            "luck": 30,
+            "magic": 22,
+            "name": "Myrmidon",
+            "promotes_to": [
+                "Swordmaster",
+                "Assassin"
+            ],
+            "resistance": 24,
+            "skill": 27,
+            "speed": 28,
+            "strength": 24,
+            "weapon_options": [
+                7
+            ]
+        },
+        {
+            "abilities": [
+                {
+                    "description": "Weapon durability is not decreased when activated",
+                    "name": "Armsthrift",
+                    "unlock_level": 1
+                },
+                {
+                    "description": "Hit Rate and Avoid +10 during the enemy's Turn",
+                    "name": "Patience",
+                    "unlock_level": 10
+                }
+            ],
+            "defense": 25,
+            "gender_lock": null,
+            "hitpoints": 60,
+            "luck": 30,
+            "magic": 20,
+            "name": "Mercenary",
+            "promotes_to": [
+                "Hero",
+                "Bow Knight"
+            ],
+            "resistance": 23,
+            "skill": 28,
+            "speed": 26,
+            "strength": 26,
+            "weapon_options": [
+                7
+            ]
+        },
+        {
+            "abilities": [
+                {
+                    "description": "Maximum HP +5",
+                    "name": "HP +5",
+                    "unlock_level": 1
+                },
+                {
+                    "description": "Critical +5",
+                    "name": "Zeal",
+                    "unlock_level": 10
+                }
+            ],
+            "defense": 25,
+            "gender_lock": "M",
+            "hitpoints": 60,
+            "luck": 30,
+            "magic": 20,
+            "name": "Fighter",
+            "promotes_to": [
+                "Hero",
+                "Warrior"
+            ],
+            "resistance": 23,
+            "skill": 26,
+            "speed": 25,
+            "strength": 29,
+            "weapon_options": [
+                1
+            ]
+        },
+        {
+            "abilities": [
+                {
+                    "description": "Obtain a\u00a0Bullion (S)\u00a0from the enemy if the user defeats the enemy",
+                    "name": "Despoil",
+                    "unlock_level": 1
+                },
+                {
+                    "description": "Hit rate 5, Critical +10",
+                    "name": "Gamble",
+                    "unlock_level": 10
+                }
+            ],
+            "defense": 22,
+            "gender_lock": "M",
+            "hitpoints": 60,
+            "luck": 30,
+            "magic": 20,
+            "name": "Barbarian",
+            "promotes_to": [
+                "Berserker",
+                "Warrior"
+            ],
+            "resistance": 20,
+            "skill": 23,
+            "speed": 27,
+            "strength": 30,
+            "weapon_options": [
+                1
+            ]
+        },
+        {
+            "abilities": [
+                {
+                    "description": "Hit rate and Avoid +15 during the user's Turn",
+                    "name": "Prescience",
+                    "unlock_level": 10
+                },
+                {
+                    "description": "Skill +2",
+                    "name": "Skill +2",
+                    "unlock_level": 1
+                }
+            ],
+            "defense": 25,
+            "gender_lock": null,
+            "hitpoints": 60,
+            "luck": 30,
+            "magic": 20,
+            "name": "Archer",
+            "promotes_to": [
+                "Sniper",
+                "Bow Knight"
+            ],
+            "resistance": 21,
+            "skill": 29,
+            "speed": 25,
+            "strength": 26,
+            "weapon_options": [
+                3
+            ]
+        },
+        {
+            "abilities": [
+                {
+                    "description": "Unlock chests and doors without needing keys",
+                    "name": "Locktouch",
+                    "unlock_level": 1
+                },
+                {
+                    "description": "Movement +1",
+                    "name": "Movement +1",
+                    "unlock_level": 10
+                }
+            ],
+            "defense": 21,
+            "gender_lock": null,
+            "hitpoints": 60,
+            "luck": 30,
+            "magic": 20,
+            "name": "Thief",
+            "promotes_to": [
+                "Trickster",
+                "Assassin"
+            ],
+            "resistance": 20,
+            "skill": 30,
+            "speed": 28,
+            "strength": 22,
+            "weapon_options": [
+                7
+            ]
+        },
+        {
+            "abilities": [
+                {
+                    "description": "Recover 20% HP at the start of the user's Turn if there are no units within a 3 tile radius",
+                    "name": "Relief",
+                    "unlock_level": 10
+                },
+                {
+                    "description": "Speed +2",
+                    "name": "Speed +2",
+                    "unlock_level": 1
+                }
+            ],
+            "defense": 22,
+            "gender_lock": "F",
+            "hitpoints": 60,
+            "luck": 30,
+            "magic": 23,
+            "name": "Pegasus Knight",
+            "promotes_to": [
+                "Falcon Knight",
+                "Dark Flier"
+            ],
+            "resistance": 25,
+            "skill": 28,
+            "speed": 27,
+            "strength": 24,
+            "weapon_options": [
+                5
+            ]
+        },
+        {
+            "abilities": [
+                {
+                    "description": "Strength +2",
+                    "name": "Strength +2",
+                    "unlock_level": 1
+                },
+                {
+                    "description": "Hit rate and Avoid +10 if no allies within a 3 tile radius.",
+                    "name": "Tantivy",
+                    "unlock_level": 10
+                }
+            ],
+            "defense": 28,
+            "gender_lock": null,
+            "hitpoints": 60,
+            "luck": 30,
+            "magic": 20,
+            "name": "Wyvern Rider",
+            "promotes_to": [
+                "Wyvern Lord",
+                "Griffon Rider"
+            ],
+            "resistance": 20,
+            "skill": 24,
+            "speed": 24,
+            "strength": 28,
+            "weapon_options": [
+                1
+            ]
+        },
+        {
+            "abilities": [
+                {
+                    "description": "Critical +10 when no allies are within a 3 tile radius",
+                    "name": "Focus",
+                    "unlock_level": 10
+                },
+                {
+                    "description": "Magic +2",
+                    "name": "Magic +2",
+                    "unlock_level": 1
+                }
+            ],
+            "defense": 21,
+            "gender_lock": null,
+            "hitpoints": 60,
+            "luck": 30,
+            "magic": 28,
+            "name": "Mage",
+            "promotes_to": [
+                "Sage",
+                "Dark Knight"
+            ],
+            "resistance": 25,
+            "skill": 27,
+            "speed": 26,
+            "strength": 20,
+            "weapon_options": [
+                8
+            ]
+        },
+        {
+            "abilities": [
+                {
+                    "description": "Avoid and Critical Avoid 10 to all enemies within a 3 tile radius.",
+                    "name": "Anathema",
+                    "unlock_level": 10
+                },
+                {
+                    "description": "Avoid 15 to all adjacent enemies",
+                    "name": "Hex",
+                    "unlock_level": 1
+                }
+            ],
+            "defense": 25,
+            "gender_lock": null,
+            "hitpoints": 60,
+            "luck": 30,
+            "magic": 27,
+            "name": "Dark Mage",
+            "promotes_to": [
+                "Sorcerer",
+                "Dark Knight"
+            ],
+            "resistance": 27,
+            "skill": 25,
+            "speed": 25,
+            "strength": 20,
+            "weapon_options": [
+                8
+            ]
+        },
+        {
+            "abilities": [
+                {
+                    "description": "Restores an extra 5 HP when healing allies",
+                    "name": "Healtouch",
+                    "unlock_level": 10
+                },
+                {
+                    "description": "Character survives with 1 HP after receiving a fatal blow. (Must have at least 2 HP or more to activate)",
+                    "name": "Miracle",
+                    "unlock_level": 1
+                }
+            ],
+            "defense": 22,
+            "gender_lock": "M",
+            "hitpoints": 60,
+            "luck": 30,
+            "magic": 25,
+            "name": "Priest",
+            "promotes_to": [
+                "War Monk",
+                "Sage"
+            ],
+            "resistance": 27,
+            "skill": 24,
+            "speed": 25,
+            "strength": 22,
+            "weapon_options": [
+                6
+            ]
+        },
+        {
+            "abilities": [
+                {
+                    "description": "Restores an extra 5 HP when healing allies",
+                    "name": "Healtouch",
+                    "unlock_level": 10
+                },
+                {
+                    "description": "Character survives with 1 HP after receiving a fatal blow. (Must have at least 2 HP or more to activate)",
+                    "name": "Miracle",
+                    "unlock_level": 1
+                }
+            ],
+            "defense": 22,
+            "gender_lock": "F",
+            "hitpoints": 60,
+            "luck": 30,
+            "magic": 25,
+            "name": "Cleric",
+            "promotes_to": [
+                "War Cleric",
+                "Sage"
+            ],
+            "resistance": 27,
+            "skill": 24,
+            "speed": 25,
+            "strength": 22,
+            "weapon_options": [
+                6
+            ]
+        },
+        {
+            "abilities": [
+                {
+                    "description": "Avoid and Critical Avoid +10 to all male allies within a 3 tile radius",
+                    "name": "Demoiselle",
+                    "unlock_level": 10
+                },
+                {
+                    "description": "Resistance +2",
+                    "name": "Resistance +2",
+                    "unlock_level": 1
+                }
+            ],
+            "defense": 20,
+            "gender_lock": "F",
+            "hitpoints": 60,
+            "luck": 30,
+            "magic": 26,
+            "name": "Troubadour",
+            "promotes_to": [
+                "War Cleric",
+                "Valkyrie"
+            ],
+            "resistance": 28,
+            "skill": 24,
+            "speed": 26,
+            "strength": 20,
+            "weapon_options": [
+                6
+            ]
+        },
+        {
+            "abilities": [
+                {
+                    "description": "Attack twice consecutively, with the first strike having a Sol effect and the second strike having a Luna effect",
+                    "name": "Aether",
+                    "unlock_level": 5
+                },
+                {
+                    "description": "Adds 10% to Skill activation rates",
+                    "name": "Rightful King",
+                    "unlock_level": 15
+                }
+            ],
+            "defense": 42,
+            "gender_lock": null,
+            "hitpoints": 80,
+            "luck": 45,
+            "magic": 30,
+            "name": "Great Lord",
+            "resistance": 40,
+            "skill": 40,
+            "speed": 41,
+            "strength": 43,
+            "weapon_options": [
+                7,
+                5
+            ]
+        },
+        {
+            "abilities": [
+                {
+                    "description": "Adds (Magic)/2 to Strength when dealing physical damage and (Strength)/2 to Magic when dealing magical damage",
+                    "name": "Ignis",
+                    "unlock_level": 5
+                },
+                {
+                    "description": "All stats (except movement) +4 to all allies within a 3 tile radius for one Turn",
+                    "name": "Rally Spectrum",
+                    "unlock_level": 15
+                }
+            ],
+            "defense": 40,
+            "gender_lock": null,
+            "hitpoints": 80,
+            "luck": 45,
+            "magic": 40,
+            "name": "Grandmaster",
+            "resistance": 40,
+            "skill": 40,
+            "speed": 40,
+            "strength": 40,
+            "weapon_options": [
+                7,
+                8
+            ]
+        },
+        {
+            "abilities": [
+                {
+                    "description": "Halves damage from bows, tomes, and\u00a0Dragonstones[1]",
+                    "name": "Aegis",
+                    "unlock_level": 15
+                },
+                {
+                    "description": "All Stats (except movement) +1 when in a pair up",
+                    "name": "Defender",
+                    "unlock_level": 5
+                }
+            ],
+            "defense": 42,
+            "gender_lock": null,
+            "hitpoints": 80,
+            "luck": 45,
+            "magic": 30,
+            "name": "Paladin",
+            "resistance": 42,
+            "skill": 40,
+            "speed": 40,
+            "strength": 42,
+            "weapon_options": [
+                7,
+                5
+            ]
+        },
+        {
+            "abilities": [
+                {
+                    "description": "Adds 10% to Dual Guard rate",
+                    "name": "Dual Guard+",
+                    "unlock_level": 15
+                },
+                {
+                    "description": "Ignores half of the enemy's Defense or Resistance",
+                    "name": "Luna",
+                    "unlock_level": 5
+                }
+            ],
+            "defense": 48,
+            "gender_lock": null,
+            "hitpoints": 80,
+            "luck": 45,
+            "magic": 20,
+            "name": "Great Knight",
+            "resistance": 30,
+            "skill": 34,
+            "speed": 37,
+            "strength": 48,
+            "weapon_options": [
+                7,
+                5,
+                1
+            ]
+        },
+        {
+            "abilities": [
+                {
+                    "description": "Halves damage from swords, lances, axes (including their magical variants), and\u00a0Beaststones[1]",
+                    "name": "Pavise",
+                    "unlock_level": 15
+                },
+                {
+                    "description": "Defense +4 to all allies within a 3 tile radius for one Turn",
+                    "name": "Rally Defense",
+                    "unlock_level": 5
+                }
+            ],
+            "defense": 50,
+            "gender_lock": null,
+            "hitpoints": 80,
+            "luck": 45,
+            "magic": 30,
+            "name": "General",
+            "resistance": 35,
+            "skill": 41,
+            "speed": 35,
+            "strength": 50,
+            "weapon_options": [
+                5,
+                1
+            ]
+        },
+        {
+            "abilities": [
+                {
+                    "description": "Deals 5 consecutive hits at half damage.",
+                    "name": "Astra",
+                    "unlock_level": 5
+                },
+                {
+                    "description": "Strength +5 when equipped with a sword. Magic +5 when equipped with a\u00a0Levin Sword",
+                    "name": "Swordfaire",
+                    "unlock_level": 15
+                }
+            ],
+            "defense": 33,
+            "gender_lock": null,
+            "hitpoints": 80,
+            "luck": 45,
+            "magic": 34,
+            "name": "Swordmaster",
+            "resistance": 38,
+            "skill": 44,
+            "speed": 46,
+            "strength": 38,
+            "weapon_options": [
+                7
+            ]
+        },
+        {
+            "abilities": [
+                {
+                    "description": "Hit rate and Avoid +50 when enemy is equipped with an axe",
+                    "name": "Axebreaker",
+                    "unlock_level": 15
+                },
+                {
+                    "description": "Recover HP equal to half the damage dealt to the enemy",
+                    "name": "Sol",
+                    "unlock_level": 5
+                }
+            ],
+            "defense": 40,
+            "gender_lock": null,
+            "hitpoints": 80,
+            "luck": 45,
+            "magic": 30,
+            "name": "Hero",
+            "resistance": 36,
+            "skill": 46,
+            "speed": 42,
+            "strength": 42,
+            "weapon_options": [
+                7,
+                1
+            ]
+        },
+        {
+            "abilities": [
+                {
+                    "description": "Returns damage when attacked by an adjacent enemy (does not return damage when user is KO'd)[1]",
+                    "name": "Counter",
+                    "unlock_level": 15
+                },
+                {
+                    "description": "Strength +4 to all allies within a 3 tile radius for one turn",
+                    "name": "Rally Strength",
+                    "unlock_level": 5
+                }
+            ],
+            "defense": 40,
+            "gender_lock": "M",
+            "hitpoints": 80,
+            "luck": 45,
+            "magic": 30,
+            "name": "Warrior",
+            "resistance": 35,
+            "skill": 42,
+            "speed": 40,
+            "strength": 48,
+            "weapon_options": [
+                1,
+                3
+            ]
+        },
+        {
+            "abilities": [
+                {
+                    "description": "Strength +5 when equipped with an axe. Magic +5 when equipped with a\u00a0Bolt Axe",
+                    "name": "Axefaire",
+                    "unlock_level": 15
+                },
+                {
+                    "description": "Critical +20 when under half HP",
+                    "name": "Wrath",
+                    "unlock_level": 5
+                }
+            ],
+            "defense": 34,
+            "gender_lock": "M",
+            "hitpoints": 80,
+            "luck": 45,
+            "magic": 30,
+            "name": "Berserker",
+            "resistance": 30,
+            "skill": 35,
+            "speed": 44,
+            "strength": 50,
+            "weapon_options": [
+                1
+            ]
+        },
+        {
+            "abilities": [
+                {
+                    "description": "Strength +5 when equipped with a bow.",
+                    "name": "Bowfaire",
+                    "unlock_level": 15
+                },
+                {
+                    "description": "Hit Rate +20",
+                    "name": "Hit Rate +20",
+                    "unlock_level": 5
+                }
+            ],
+            "defense": 40,
+            "gender_lock": null,
+            "hitpoints": 80,
+            "luck": 45,
+            "magic": 30,
+            "name": "Sniper",
+            "resistance": 31,
+            "skill": 48,
+            "speed": 40,
+            "strength": 41,
+            "weapon_options": [
+                3
+            ]
+        },
+        {
+            "abilities": [
+                {
+                    "description": "Hit rate and Avoid +50 when the enemy is equipped with a bow.",
+                    "name": "Bowbreaker",
+                    "unlock_level": 15
+                },
+                {
+                    "description": "Skill +4 to all allies within a 3 tile radius for one Turn",
+                    "name": "Rally Skill",
+                    "unlock_level": 5
+                }
+            ],
+            "defense": 35,
+            "gender_lock": null,
+            "hitpoints": 80,
+            "luck": 45,
+            "magic": 30,
+            "name": "Bow Knight",
+            "resistance": 30,
+            "skill": 43,
+            "speed": 41,
+            "strength": 40,
+            "weapon_options": [
+                7,
+                3
+            ]
+        },
+        {
+            "abilities": [
+                {
+                    "description": "Instantly defeats the enemy",
+                    "name": "Lethality",
+                    "unlock_level": 5
+                },
+                {
+                    "description": "User can move through tiles occupied by an enemy unit",
+                    "name": "Pass",
+                    "unlock_level": 15
+                }
+            ],
+            "defense": 31,
+            "gender_lock": null,
+            "hitpoints": 80,
+            "luck": 45,
+            "magic": 30,
+            "name": "Assassin",
+            "resistance": 30,
+            "skill": 48,
+            "speed": 46,
+            "strength": 40,
+            "weapon_options": [
+                7,
+                3
+            ]
+        },
+        {
+            "abilities": [
+                {
+                    "description": "All traversable terrain costs 1 movement point to cross",
+                    "name": "Acrobat",
+                    "unlock_level": 15
+                },
+                {
+                    "description": "Hit rate and Avoid +20 for the first 7 Turns of a map.",
+                    "name": "Lucky Seven",
+                    "unlock_level": 5
+                }
+            ],
+            "defense": 30,
+            "gender_lock": null,
+            "hitpoints": 80,
+            "luck": 45,
+            "magic": 38,
+            "name": "Trickster",
+            "resistance": 40,
+            "skill": 45,
+            "speed": 43,
+            "strength": 35,
+            "weapon_options": [
+                7,
+                6
+            ]
+        },
+        {
+            "abilities": [
+                {
+                    "description": "Strength +5 when equipped with a lance. Magic +5 when equipped with a\u00a0Shockstick",
+                    "name": "Lancefaire",
+                    "unlock_level": 15
+                },
+                {
+                    "description": "Speed +4 to all allies within a 3 tile radius for one Turn",
+                    "name": "Rally Speed",
+                    "unlock_level": 5
+                }
+            ],
+            "defense": 33,
+            "gender_lock": "F",
+            "hitpoints": 80,
+            "luck": 45,
+            "magic": 35,
+            "name": "Falcon Knight",
+            "resistance": 40,
+            "skill": 45,
+            "speed": 44,
+            "strength": 38,
+            "weapon_options": [
+                5,
+                6
+            ]
+        },
+        {
+            "abilities": [
+                {
+                    "description": "Allows the user another full action after they defeat an enemy during the user's Turn. Activates only once per Turn.",
+                    "name": "Galeforce",
+                    "unlock_level": 15
+                },
+                {
+                    "description": "Movement +1 to all allies within a 3 tile radius for one Turn",
+                    "name": "Rally Movement",
+                    "unlock_level": 5
+                }
+            ],
+            "defense": 32,
+            "gender_lock": "F",
+            "hitpoints": 80,
+            "luck": 45,
+            "magic": 42,
+            "name": "Dark Flier",
+            "resistance": 41,
+            "skill": 41,
+            "speed": 42,
+            "strength": 36,
+            "weapon_options": [
+                5,
+                8
+            ]
+        },
+        {
+            "abilities": [
+                {
+                    "description": "Hit rate and Avoid +15 at the start of a chapter. Effect decreases by 1 with each passing turn.",
+                    "name": "Quick Burn",
+                    "unlock_level": 5
+                },
+                {
+                    "description": "Hit rate and Avoid +50 when the enemy is equipped with a sword",
+                    "name": "Swordbreaker",
+                    "unlock_level": 15
+                }
+            ],
+            "defense": 46,
+            "gender_lock": null,
+            "hitpoints": 80,
+            "luck": 45,
+            "magic": 30,
+            "name": "Wyvern Lord",
+            "resistance": 30,
+            "skill": 38,
+            "speed": 38,
+            "strength": 46,
+            "weapon_options": [
+                1,
+                5
+            ]
+        },
+        {
+            "abilities": [
+                {
+                    "description": "Movement +2 when in a Pair Up",
+                    "name": "Deliverer",
+                    "unlock_level": 5
+                },
+                {
+                    "description": "Hit rate and Avoid +50 when the enemy is equipped with a lance",
+                    "name": "Lancebreaker",
+                    "unlock_level": 15
+                }
+            ],
+            "defense": 40,
+            "gender_lock": null,
+            "hitpoints": 80,
+            "luck": 45,
+            "magic": 30,
+            "name": "Griffon Rider",
+            "resistance": 30,
+            "skill": 43,
+            "speed": 41,
+            "strength": 40,
+            "weapon_options": [
+                1
+            ]
+        },
+        {
+            "abilities": [
+                {
+                    "description": "Magic +4 to all alies within a 3 tile radius for one Turn",
+                    "name": "Rally Magic",
+                    "unlock_level": 5
+                },
+                {
+                    "description": "Magic +5 when equipped with a tome",
+                    "name": "Tomefaire",
+                    "unlock_level": 15
+                }
+            ],
+            "defense": 31,
+            "gender_lock": null,
+            "hitpoints": 80,
+            "luck": 45,
+            "magic": 46,
+            "name": "Sage",
+            "resistance": 40,
+            "skill": 43,
+            "speed": 42,
+            "strength": 30,
+            "weapon_options": [
+                8,
+                6
+            ]
+        },
+        {
+            "abilities": [
+                {
+                    "description": "Hit rate and Avoid +50 when enemy is equipped with a tome",
+                    "name": "Tomebreaker",
+                    "unlock_level": 15
+                },
+                {
+                    "description": "Adds half of the user's current accrued damage to user's attack",
+                    "name": "Vengeance",
+                    "unlock_level": 5
+                }
+            ],
+            "defense": 41,
+            "gender_lock": null,
+            "hitpoints": 80,
+            "luck": 45,
+            "magic": 44,
+            "name": "Sorcerer",
+            "resistance": 44,
+            "skill": 38,
+            "speed": 40,
+            "strength": 30,
+            "weapon_options": [
+                8
+            ]
+        },
+        {
+            "abilities": [
+                {
+                    "description": "User recovers 50% Max HP after they defeat an enemy during the user's Turn.",
+                    "name": "Lifetaker",
+                    "unlock_level": 15
+                },
+                {
+                    "description": "Hit rate and Avoid increases by 1 each Turn up to the 15th turn",
+                    "name": "Slow Burn",
+                    "unlock_level": 5
+                }
+            ],
+            "defense": 42,
+            "gender_lock": null,
+            "hitpoints": 80,
+            "luck": 45,
+            "magic": 41,
+            "name": "Dark Knight",
+            "resistance": 38,
+            "skill": 40,
+            "speed": 40,
+            "strength": 38,
+            "weapon_options": [
+                7,
+                8
+            ]
+        },
+        {
+            "abilities": [
+                {
+                    "description": "Luck +8 to all allies within a 3 tile radius for one Turn",
+                    "name": "Rally Luck",
+                    "unlock_level": 5
+                },
+                {
+                    "description": "Recover 30% HP at the start of the user's Turn",
+                    "name": "Renewal",
+                    "unlock_level": 15
+                }
+            ],
+            "defense": 38,
+            "gender_lock": "M",
+            "hitpoints": 80,
+            "luck": 45,
+            "magic": 40,
+            "name": "War Monk",
+            "resistance": 43,
+            "skill": 38,
+            "speed": 41,
+            "strength": 40,
+            "weapon_options": [
+                6,
+                1
+            ]
+        },
+        {
+            "abilities": [
+                {
+                    "description": "Luck +8 to all allies within a 3 tile radius for one Turn",
+                    "name": "Rally Luck",
+                    "unlock_level": 5
+                },
+                {
+                    "description": "Recover 30% HP at the start of the user's Turn",
+                    "name": "Renewal",
+                    "unlock_level": 15
+                }
+            ],
+            "defense": 38,
+            "gender_lock": "F",
+            "hitpoints": 80,
+            "luck": 45,
+            "magic": 40,
+            "name": "War Cleric",
+            "resistance": 43,
+            "skill": 38,
+            "speed": 41,
+            "strength": 40,
+            "weapon_options": [
+                6,
+                1
+            ]
+        },
+        {
+            "abilities": [
+                {
+                    "description": "Increases the\u00a0Dual Support\u00a0level of a unit by 4",
+                    "name": "Dual Support+",
+                    "unlock_level": 15
+                },
+                {
+                    "description": "Resistance +4 to all allies within a 3 tile radius for one Turn",
+                    "name": "Rally Resistance",
+                    "unlock_level": 5
+                }
+            ],
+            "defense": 30,
+            "gender_lock": "F",
+            "hitpoints": 80,
+            "luck": 45,
+            "magic": 42,
+            "name": "Valkyrie",
+            "resistance": 45,
+            "skill": 38,
+            "speed": 43,
+            "strength": 30,
+            "weapon_options": [
+                6,
+                8
+            ]
+        },
+        {
+            "abilities": [
+                {
+                    "description": "Adds 20% to all growth rates",
+                    "name": "Aptitude",
+                    "unlock_level": 1
+                },
+                {
+                    "description": "Hit rate and Avoid +15 when the user's level is lower than the enemy. Promoted units count as Level +20 against a nonpromoted user.",
+                    "name": "Underdog",
+                    "unlock_level": 15
+                }
+            ],
+            "defense": 20,
+            "gender_lock": "M",
+            "hitpoints": 60,
+            "luck": 30,
+            "magic": 20,
+            "name": "Villager",
+            "promotes_to": [
+                "Fighter",
+                "Mercenary"
+            ],
+            "resistance": 20,
+            "skill": 20,
+            "speed": 20,
+            "strength": 20,
+            "weapon_options": [
+                5
+            ]
+        },
+        {
+            "abilities": [
+                {
+                    "description": "Luck +4",
+                    "name": "Luck +4",
+                    "unlock_level": 1
+                },
+                {
+                    "description": "Strength, Magic, Defense, and Resistance +2 for one Turn for any unit who receives the user's Dance.",
+                    "name": "Special Dance",
+                    "unlock_level": 15
+                }
+            ],
+            "defense": 30,
+            "gender_lock": null,
+            "hitpoints": 80,
+            "luck": 45,
+            "magic": 30,
+            "name": "Dancer",
+            "resistance": 30,
+            "skill": 40,
+            "speed": 40,
+            "strength": 30,
+            "weapon_options": [
+                7
+            ]
+        },
+        {
+            "abilities": [
+                {
+                    "description": "Deals effective damage to beast units when the user is a Taguel",
+                    "name": "Beastbane",
+                    "unlock_level": 15
+                },
+                {
+                    "description": "Hit rate and Avoid +10 during even numbered Turns",
+                    "name": "Even Rhythm",
+                    "unlock_level": 1
+                }
+            ],
+            "defense": 35,
+            "gender_lock": null,
+            "hitpoints": 80,
+            "luck": 45,
+            "magic": 30,
+            "name": "Taguel",
+            "resistance": 30,
+            "skill": 40,
+            "speed": 40,
+            "strength": 35,
+            "weapon_options": [
+                2
+            ]
+        },
+        {
+            "abilities": [
+                {
+                    "description": "Hit rate and Avoid +10 during odd numbered Turns",
+                    "name": "Odd Rhythm",
+                    "unlock_level": 1
+                },
+                {
+                    "description": "Deals effective damage to dragon units when the user is a Manakete",
+                    "name": "Wyrmsbane",
+                    "unlock_level": 15
+                }
+            ],
+            "defense": 40,
+            "gender_lock": "F",
+            "hitpoints": 80,
+            "luck": 45,
+            "magic": 35,
+            "name": "Manakete",
+            "resistance": 40,
+            "skill": 35,
+            "speed": 35,
+            "strength": 40,
+            "weapon_options": [
+                4
+            ]
+        }
+    ],
+    "weapons": [
+        {
+            "kind": 5,
+            "might": 3,
+            "name": "Bronze Lance",
+            "rank": "E",
+            "to_crit": 0,
+            "to_hit": 90,
+            "uses": 50,
+            "worth": 350
+        },
+        {
+            "kind": 5,
+            "might": 6,
+            "name": "Iron Lance",
+            "rank": "D",
+            "to_crit": 0,
+            "to_hit": 85,
+            "uses": 40,
+            "worth": 560
+        },
+        {
+            "kind": 5,
+            "might": 9,
+            "name": "Steel Lance",
+            "rank": "C",
+            "to_crit": 0,
+            "to_hit": 80,
+            "uses": 35,
+            "worth": 910
+        },
+        {
+            "kind": 5,
+            "might": 13,
+            "name": "Silver Lance",
+            "rank": "B",
+            "to_crit": 0,
+            "to_hit": 75,
+            "uses": 30,
+            "worth": 1560
+        },
+        {
+            "kind": 5,
+            "might": 10,
+            "name": "Brave Lance",
+            "rank": "A",
+            "to_crit": 0,
+            "to_hit": 70,
+            "uses": 30,
+            "worth": 2220
+        },
+        {
+            "kind": 5,
+            "might": 2,
+            "name": "Javelin",
+            "rank": "D",
+            "to_crit": 0,
+            "to_hit": 80,
+            "uses": 25,
+            "worth": 700
+        },
+        {
+            "kind": 5,
+            "might": 5,
+            "name": "Short Spear",
+            "rank": "C",
+            "to_crit": 0,
+            "to_hit": 75,
+            "uses": 25,
+            "worth": 1600
+        },
+        {
+            "kind": 5,
+            "might": 8,
+            "name": "Spear",
+            "rank": "B",
+            "to_crit": 0,
+            "to_hit": 70,
+            "uses": 25,
+            "worth": 2400
+        },
+        {
+            "kind": 5,
+            "might": 9,
+            "name": "Beast Killer",
+            "rank": "D",
+            "to_crit": 0,
+            "to_hit": 70,
+            "uses": 25,
+            "worth": 1650
+        },
+        {
+            "kind": 5,
+            "might": 11,
+            "name": "Blessed Lance",
+            "rank": "C",
+            "to_crit": 0,
+            "to_hit": 70,
+            "uses": 35,
+            "worth": 1540
+        },
+        {
+            "kind": 5,
+            "might": 10,
+            "name": "Killer Lance",
+            "rank": "C",
+            "to_crit": 30,
+            "to_hit": 80,
+            "uses": 30,
+            "worth": 1680
+        },
+        {
+            "kind": 5,
+            "might": 14,
+            "name": "Luna",
+            "rank": "B",
+            "to_crit": 5,
+            "to_hit": 80,
+            "uses": 30,
+            "worth": 0
+        },
+        {
+            "kind": 5,
+            "might": 19,
+            "name": "Gradivus",
+            "rank": "A",
+            "to_crit": 5,
+            "to_hit": 85,
+            "uses": 25,
+            "worth": 0
+        },
+        {
+            "kind": 5,
+            "might": 15,
+            "name": "G\u00e1e Bolg",
+            "rank": "A",
+            "to_crit": 10,
+            "to_hit": 75,
+            "uses": 25,
+            "worth": 0
+        },
+        {
+            "kind": 5,
+            "might": 16,
+            "name": "Gungnir",
+            "rank": "A",
+            "to_crit": 10,
+            "to_hit": 70,
+            "uses": 25,
+            "worth": 0
+        },
+        {
+            "kind": 5,
+            "might": 1,
+            "name": "Log",
+            "rank": "E",
+            "to_crit": 0,
+            "to_hit": 90,
+            "uses": 20,
+            "worth": 100
+        },
+        {
+            "kind": 5,
+            "might": 13,
+            "name": "Glass Lance",
+            "rank": "E",
+            "to_crit": 0,
+            "to_hit": 75,
+            "uses": 3,
+            "worth": 600
+        },
+        {
+            "kind": 5,
+            "might": 1,
+            "name": "Miniature Lance",
+            "rank": "D",
+            "to_crit": 35,
+            "to_hit": 55,
+            "uses": 10,
+            "worth": 650
+        },
+        {
+            "kind": 5,
+            "might": 11,
+            "name": "Shockstick",
+            "rank": "C",
+            "to_crit": 10,
+            "to_hit": 85,
+            "uses": 20,
+            "worth": 1200
+        },
+        {
+            "kind": 5,
+            "might": 13,
+            "name": "Superior Lance",
+            "rank": "B",
+            "to_crit": 0,
+            "to_hit": 70,
+            "uses": 10,
+            "worth": 2100
+        },
+        {
+            "kind": 5,
+            "might": 8,
+            "name": "Finn\u2019s Lance",
+            "rank": "D",
+            "to_crit": 10,
+            "to_hit": 85,
+            "uses": 25,
+            "worth": 950
+        },
+        {
+            "kind": 5,
+            "might": 11,
+            "name": "Ephraim\u2019s Lance",
+            "rank": "C",
+            "to_crit": 10,
+            "to_hit": 80,
+            "uses": 20,
+            "worth": 1220
+        },
+        {
+            "kind": 5,
+            "might": 14,
+            "name": "Sigurd\u2019s Lance",
+            "rank": "B",
+            "to_crit": 15,
+            "to_hit": 85,
+            "uses": 15,
+            "worth": 1920
+        },
+        {
+            "kind": 7,
+            "might": 3,
+            "name": "Bronze Sword",
+            "rank": "E",
+            "to_crit": 0,
+            "to_hit": 100,
+            "uses": 50,
+            "worth": 350
+        },
+        {
+            "kind": 7,
+            "might": 5,
+            "name": "Iron Sword",
+            "rank": "D",
+            "to_crit": 0,
+            "to_hit": 95,
+            "uses": 40,
+            "worth": 520
+        },
+        {
+            "kind": 7,
+            "might": 8,
+            "name": "Steel Sword",
+            "rank": "C",
+            "to_crit": 0,
+            "to_hit": 90,
+            "uses": 35,
+            "worth": 840
+        },
+        {
+            "kind": 7,
+            "might": 11,
+            "name": "Silver Sword",
+            "rank": "B",
+            "to_crit": 0,
+            "to_hit": 85,
+            "uses": 30,
+            "worth": 1410
+        },
+        {
+            "kind": 7,
+            "might": 9,
+            "name": "Brave Sword",
+            "rank": "A",
+            "to_crit": 0,
+            "to_hit": 80,
+            "uses": 30,
+            "worth": 2100
+        },
+        {
+            "kind": 7,
+            "might": 8,
+            "name": "Armourslayer",
+            "rank": "D",
+            "to_crit": 0,
+            "to_hit": 80,
+            "uses": 25,
+            "worth": 1450
+        },
+        {
+            "kind": 7,
+            "might": 8,
+            "name": "Wyrmslayer",
+            "rank": "D",
+            "to_crit": 0,
+            "to_hit": 80,
+            "uses": 25,
+            "worth": 1500
+        },
+        {
+            "kind": 7,
+            "might": 9,
+            "name": "Killing Edge",
+            "rank": "C",
+            "to_crit": 30,
+            "to_hit": 90,
+            "uses": 30,
+            "worth": 1470
+        },
+        {
+            "kind": 7,
+            "might": 10,
+            "name": "Levin Sword",
+            "rank": "C",
+            "to_crit": 0,
+            "to_hit": 80,
+            "uses": 25,
+            "worth": 1600
+        },
+        {
+            "kind": 7,
+            "might": 5,
+            "name": "Rapier",
+            "rank": "E",
+            "to_crit": 10,
+            "to_hit": 90,
+            "uses": 35,
+            "worth": 1600
+        },
+        {
+            "kind": 7,
+            "might": 8,
+            "name": "Noble Rapier",
+            "rank": "C",
+            "to_crit": 10,
+            "to_hit": 85,
+            "uses": 25,
+            "worth": 2100
+        },
+        {
+            "kind": 7,
+            "might": 8,
+            "name": "Missiletainn",
+            "rank": "C",
+            "to_crit": 10,
+            "to_hit": 85,
+            "uses": 35,
+            "worth": 1050
+        },
+        {
+            "kind": 7,
+            "might": 12,
+            "name": "Sol",
+            "rank": "B",
+            "to_crit": 5,
+            "to_hit": 85,
+            "uses": 30,
+            "worth": 0
+        },
+        {
+            "kind": 7,
+            "might": 12,
+            "name": "Amatsu",
+            "rank": "A",
+            "to_crit": 5,
+            "to_hit": 60,
+            "uses": 30,
+            "worth": 0
+        },
+        {
+            "kind": 7,
+            "might": 5,
+            "name": "Falchion",
+            "rank": "E",
+            "to_crit": 0,
+            "to_hit": 80,
+            "uses": 0,
+            "worth": 0
+        },
+        {
+            "kind": 7,
+            "might": 15,
+            "name": "Exalted Falchion",
+            "rank": "E",
+            "to_crit": 10,
+            "to_hit": 80,
+            "uses": 0,
+            "worth": 0
+        },
+        {
+            "kind": 7,
+            "might": 12,
+            "name": "Parallel Falchion",
+            "rank": "E",
+            "to_crit": 5,
+            "to_hit": 80,
+            "uses": 0,
+            "worth": 0
+        },
+        {
+            "kind": 7,
+            "might": 17,
+            "name": "Mercurius",
+            "rank": "A",
+            "to_crit": 5,
+            "to_hit": 95,
+            "uses": 25,
+            "worth": 0
+        },
+        {
+            "kind": 7,
+            "might": 15,
+            "name": "Tyrfing",
+            "rank": "A",
+            "to_crit": 10,
+            "to_hit": 85,
+            "uses": 25,
+            "worth": 0
+        },
+        {
+            "kind": 7,
+            "might": 13,
+            "name": "Balmung",
+            "rank": "A",
+            "to_crit": 10,
+            "to_hit": 90,
+            "uses": 25,
+            "worth": 0
+        },
+        {
+            "kind": 7,
+            "might": 14,
+            "name": "Mystletainn",
+            "rank": "A",
+            "to_crit": 15,
+            "to_hit": 85,
+            "uses": 25,
+            "worth": 0
+        },
+        {
+            "kind": 7,
+            "might": 8,
+            "name": "Sol Katti",
+            "rank": "A",
+            "to_crit": 50,
+            "to_hit": 100,
+            "uses": 25,
+            "worth": 0
+        },
+        {
+            "kind": 7,
+            "might": 15,
+            "name": "Ragnell",
+            "rank": "A",
+            "to_crit": 0,
+            "to_hit": 70,
+            "uses": 25,
+            "worth": 0
+        },
+        {
+            "kind": 7,
+            "might": 1,
+            "name": "Tree Branch",
+            "rank": "E",
+            "to_crit": 0,
+            "to_hit": 100,
+            "uses": 20,
+            "worth": 100
+        },
+        {
+            "kind": 7,
+            "might": 11,
+            "name": "Glass Sword",
+            "rank": "E",
+            "to_crit": 0,
+            "to_hit": 85,
+            "uses": 3,
+            "worth": 600
+        },
+        {
+            "kind": 7,
+            "might": 8,
+            "name": "Soothing Sword",
+            "rank": "D",
+            "to_crit": 0,
+            "to_hit": 85,
+            "uses": 10,
+            "worth": 920
+        },
+        {
+            "kind": 7,
+            "might": 11,
+            "name": "Superior Edge",
+            "rank": "B",
+            "to_crit": 0,
+            "to_hit": 80,
+            "uses": 10,
+            "worth": 1950
+        },
+        {
+            "kind": 7,
+            "might": 4,
+            "name": "Leif\u2019s Blade",
+            "rank": "D",
+            "to_crit": 30,
+            "to_hit": 95,
+            "uses": 20,
+            "worth": 820
+        },
+        {
+            "kind": 7,
+            "might": 8,
+            "name": "Roy\u2019s Blade",
+            "rank": "D",
+            "to_crit": 5,
+            "to_hit": 95,
+            "uses": 25,
+            "worth": 900
+        },
+        {
+            "kind": 7,
+            "might": 10,
+            "name": "Eliwood\u2019s Blade",
+            "rank": "C",
+            "to_crit": 5,
+            "to_hit": 85,
+            "uses": 20,
+            "worth": 960
+        },
+        {
+            "kind": 7,
+            "might": 6,
+            "name": "Eirika\u2019s Blade",
+            "rank": "C",
+            "to_crit": 10,
+            "to_hit": 95,
+            "uses": 20,
+            "worth": 1220
+        },
+        {
+            "kind": 7,
+            "might": 12,
+            "name": "Seliph\u2019s Blade",
+            "rank": "B",
+            "to_crit": 15,
+            "to_hit": 90,
+            "uses": 15,
+            "worth": 1530
+        },
+        {
+            "kind": 7,
+            "might": 15,
+            "name": "Alm\u2019s Blade",
+            "rank": "B",
+            "to_crit": 10,
+            "to_hit": 75,
+            "uses": 10,
+            "worth": 1630
+        },
+        {
+            "kind": 1,
+            "might": 4,
+            "name": "Bronze Axe",
+            "rank": "E",
+            "to_crit": 0,
+            "to_hit": 80,
+            "uses": 50,
+            "worth": 400
+        },
+        {
+            "kind": 1,
+            "might": 7,
+            "name": "Iron Axe",
+            "rank": "D",
+            "to_crit": 0,
+            "to_hit": 75,
+            "uses": 40,
+            "worth": 600
+        },
+        {
+            "kind": 1,
+            "might": 11,
+            "name": "Steel Axe",
+            "rank": "C",
+            "to_crit": 0,
+            "to_hit": 70,
+            "uses": 35,
+            "worth": 980
+        },
+        {
+            "kind": 1,
+            "might": 15,
+            "name": "Silver Axe",
+            "rank": "B",
+            "to_crit": 0,
+            "to_hit": 65,
+            "uses": 30,
+            "worth": 1740
+        },
+        {
+            "kind": 1,
+            "might": 12,
+            "name": "Brave Axe",
+            "rank": "A",
+            "to_crit": 0,
+            "to_hit": 60,
+            "uses": 30,
+            "worth": 2400
+        },
+        {
+            "kind": 1,
+            "might": 3,
+            "name": "Hand Axe",
+            "rank": "D",
+            "to_crit": 0,
+            "to_hit": 70,
+            "uses": 25,
+            "worth": 750
+        },
+        {
+            "kind": 1,
+            "might": 7,
+            "name": "Short Axe",
+            "rank": "C",
+            "to_crit": 0,
+            "to_hit": 65,
+            "uses": 25,
+            "worth": 1750
+        },
+        {
+            "kind": 1,
+            "might": 10,
+            "name": "Tomahawk",
+            "rank": "B",
+            "to_crit": 0,
+            "to_hit": 60,
+            "uses": 25,
+            "worth": 2550
+        },
+        {
+            "kind": 1,
+            "might": 10,
+            "name": "Hammer",
+            "rank": "D",
+            "to_crit": 0,
+            "to_hit": 60,
+            "uses": 25,
+            "worth": 1850
+        },
+        {
+            "kind": 1,
+            "might": 14,
+            "name": "Bolt Axe",
+            "rank": "B",
+            "to_crit": 5,
+            "to_hit": 70,
+            "uses": 30,
+            "worth": 1920
+        },
+        {
+            "kind": 1,
+            "might": 12,
+            "name": "Killer Axe",
+            "rank": "C",
+            "to_crit": 30,
+            "to_hit": 70,
+            "uses": 30,
+            "worth": 1860
+        },
+        {
+            "kind": 1,
+            "might": 16,
+            "name": "Vengeance",
+            "rank": "B",
+            "to_crit": 5,
+            "to_hit": 75,
+            "uses": 30,
+            "worth": 0
+        },
+        {
+            "kind": 1,
+            "might": 18,
+            "name": "Wolf Berg",
+            "rank": "A",
+            "to_crit": 5,
+            "to_hit": 75,
+            "uses": 35,
+            "worth": 0
+        },
+        {
+            "kind": 1,
+            "might": 21,
+            "name": "Hauteclere",
+            "rank": "A",
+            "to_crit": 5,
+            "to_hit": 70,
+            "uses": 25,
+            "worth": 0
+        },
+        {
+            "kind": 1,
+            "might": 18,
+            "name": "Helswath",
+            "rank": "A",
+            "to_crit": 10,
+            "to_hit": 60,
+            "uses": 25,
+            "worth": 0
+        },
+        {
+            "kind": 1,
+            "might": 17,
+            "name": "Armads",
+            "rank": "A",
+            "to_crit": 10,
+            "to_hit": 80,
+            "uses": 25,
+            "worth": 0
+        },
+        {
+            "kind": 1,
+            "might": 1,
+            "name": "Ladle",
+            "rank": "E",
+            "to_crit": 0,
+            "to_hit": 80,
+            "uses": 20,
+            "worth": 100
+        },
+        {
+            "kind": 1,
+            "might": 15,
+            "name": "Glass Axe",
+            "rank": "E",
+            "to_crit": 0,
+            "to_hit": 65,
+            "uses": 3,
+            "worth": 600
+        },
+        {
+            "kind": 1,
+            "might": 14,
+            "name": "Imposing Axe",
+            "rank": "D",
+            "to_crit": 10,
+            "to_hit": 35,
+            "uses": 10,
+            "worth": 830
+        },
+        {
+            "kind": 1,
+            "might": 8,
+            "name": "Volant Axe",
+            "rank": "C",
+            "to_crit": 0,
+            "to_hit": 55,
+            "uses": 10,
+            "worth": 1510
+        },
+        {
+            "kind": 1,
+            "might": 15,
+            "name": "Superior Axe",
+            "rank": "B",
+            "to_crit": 0,
+            "to_hit": 60,
+            "uses": 10,
+            "worth": 2150
+        },
+        {
+            "kind": 1,
+            "might": 4,
+            "name": "Orsin\u2019s Hatchet",
+            "rank": "D",
+            "to_crit": 5,
+            "to_hit": 85,
+            "uses": 20,
+            "worth": 960
+        },
+        {
+            "kind": 1,
+            "might": 12,
+            "name": "Titania\u2019s Axe",
+            "rank": "C",
+            "to_crit": 10,
+            "to_hit": 80,
+            "uses": 20,
+            "worth": 1320
+        },
+        {
+            "kind": 1,
+            "might": 15,
+            "name": "Hector\u2019s Axe",
+            "rank": "B",
+            "to_crit": 15,
+            "to_hit": 75,
+            "uses": 15,
+            "worth": 2010
+        },
+        {
+            "kind": 3,
+            "might": 3,
+            "name": "Bronze Bow",
+            "rank": "E",
+            "to_crit": 0,
+            "to_hit": 90,
+            "uses": 50,
+            "worth": 350
+        },
+        {
+            "kind": 3,
+            "might": 6,
+            "name": "Iron Bow",
+            "rank": "D",
+            "to_crit": 0,
+            "to_hit": 85,
+            "uses": 40,
+            "worth": 560
+        },
+        {
+            "kind": 3,
+            "might": 9,
+            "name": "Steel Bow",
+            "rank": "C",
+            "to_crit": 0,
+            "to_hit": 80,
+            "uses": 35,
+            "worth": 910
+        },
+        {
+            "kind": 3,
+            "might": 13,
+            "name": "Silver Bow",
+            "rank": "B",
+            "to_crit": 0,
+            "to_hit": 75,
+            "uses": 30,
+            "worth": 1560
+        },
+        {
+            "kind": 3,
+            "might": 10,
+            "name": "Brave Bow",
+            "rank": "A",
+            "to_crit": 0,
+            "to_hit": 70,
+            "uses": 30,
+            "worth": 2220
+        },
+        {
+            "kind": 3,
+            "might": 11,
+            "name": "Blessed Bow",
+            "rank": "C",
+            "to_crit": 0,
+            "to_hit": 70,
+            "uses": 35,
+            "worth": 1540
+        },
+        {
+            "kind": 3,
+            "might": 10,
+            "name": "Killer Bow",
+            "rank": "C",
+            "to_crit": 30,
+            "to_hit": 80,
+            "uses": 30,
+            "worth": 1680
+        },
+        {
+            "kind": 3,
+            "might": 9,
+            "name": "Longbow",
+            "rank": "C",
+            "to_crit": 0,
+            "to_hit": 70,
+            "uses": 25,
+            "worth": 2150
+        },
+        {
+            "kind": 3,
+            "might": 14,
+            "name": "Astra",
+            "rank": "B",
+            "to_crit": 5,
+            "to_hit": 75,
+            "uses": 30,
+            "worth": 0
+        },
+        {
+            "kind": 3,
+            "might": 19,
+            "name": "Parthia",
+            "rank": "A",
+            "to_crit": 5,
+            "to_hit": 95,
+            "uses": 25,
+            "worth": 0
+        },
+        {
+            "kind": 3,
+            "might": 15,
+            "name": "Yewfelle",
+            "rank": "A",
+            "to_crit": 10,
+            "to_hit": 85,
+            "uses": 25,
+            "worth": 0
+        },
+        {
+            "kind": 3,
+            "might": 16,
+            "name": "Nidhogg",
+            "rank": "A",
+            "to_crit": 10,
+            "to_hit": 75,
+            "uses": 25,
+            "worth": 0
+        },
+        {
+            "kind": 3,
+            "might": 13,
+            "name": "Double Bow",
+            "rank": "A",
+            "to_crit": 10,
+            "to_hit": 70,
+            "uses": 25,
+            "worth": 0
+        },
+        {
+            "kind": 3,
+            "might": 1,
+            "name": "Slack Bow",
+            "rank": "E",
+            "to_crit": 0,
+            "to_hit": 90,
+            "uses": 20,
+            "worth": 100
+        },
+        {
+            "kind": 3,
+            "might": 13,
+            "name": "Glass Bow",
+            "rank": "E",
+            "to_crit": 0,
+            "to_hit": 75,
+            "uses": 3,
+            "worth": 600
+        },
+        {
+            "kind": 3,
+            "might": 3,
+            "name": "Towering Bow",
+            "rank": "D",
+            "to_crit": 0,
+            "to_hit": 80,
+            "uses": 10,
+            "worth": 810
+        },
+        {
+            "kind": 3,
+            "might": 9,
+            "name": "Underdog Bow",
+            "rank": "D",
+            "to_crit": 5,
+            "to_hit": 75,
+            "uses": 15,
+            "worth": 950
+        },
+        {
+            "kind": 3,
+            "might": 13,
+            "name": "Superior Bow",
+            "rank": "B",
+            "to_crit": 0,
+            "to_hit": 70,
+            "uses": 10,
+            "worth": 2160
+        },
+        {
+            "kind": 3,
+            "might": 10,
+            "name": "Wolt\u2019s Bow",
+            "rank": "C",
+            "to_crit": 5,
+            "to_hit": 85,
+            "uses": 25,
+            "worth": 950
+        },
+        {
+            "kind": 3,
+            "might": 13,
+            "name": "Innes\u2019 Bow",
+            "rank": "B",
+            "to_crit": 10,
+            "to_hit": 115,
+            "uses": 15,
+            "worth": 1710
+        },
+        {
+            "kind": 8,
+            "might": 2,
+            "name": "Fire",
+            "rank": "E",
+            "to_crit": 0,
+            "to_hit": 90,
+            "uses": 45,
+            "worth": 540
+        },
+        {
+            "kind": 8,
+            "might": 5,
+            "name": "Elfire",
+            "rank": "D",
+            "to_crit": 0,
+            "to_hit": 85,
+            "uses": 35,
+            "worth": 980
+        },
+        {
+            "kind": 8,
+            "might": 8,
+            "name": "Arcfire",
+            "rank": "C",
+            "to_crit": 0,
+            "to_hit": 80,
+            "uses": 30,
+            "worth": 1440
+        },
+        {
+            "kind": 8,
+            "might": 12,
+            "name": "Bolganone",
+            "rank": "B",
+            "to_crit": 0,
+            "to_hit": 75,
+            "uses": 25,
+            "worth": 2000
+        },
+        {
+            "kind": 8,
+            "might": 16,
+            "name": "Valflame",
+            "rank": "A",
+            "to_crit": 10,
+            "to_hit": 80,
+            "uses": 25,
+            "worth": 0
+        },
+        {
+            "kind": 8,
+            "might": 3,
+            "name": "Thunder",
+            "rank": "E",
+            "to_crit": 5,
+            "to_hit": 80,
+            "uses": 45,
+            "worth": 630
+        },
+        {
+            "kind": 8,
+            "might": 6,
+            "name": "Elthunder",
+            "rank": "D",
+            "to_crit": 5,
+            "to_hit": 75,
+            "uses": 35,
+            "worth": 1050
+        },
+        {
+            "kind": 8,
+            "might": 10,
+            "name": "Arcthunder",
+            "rank": "C",
+            "to_crit": 10,
+            "to_hit": 70,
+            "uses": 30,
+            "worth": 1620
+        },
+        {
+            "kind": 8,
+            "might": 14,
+            "name": "Thoron",
+            "rank": "B",
+            "to_crit": 10,
+            "to_hit": 65,
+            "uses": 25,
+            "worth": 2200
+        },
+        {
+            "kind": 8,
+            "might": 18,
+            "name": "Mj\u00f6lnir",
+            "rank": "A",
+            "to_crit": 20,
+            "to_hit": 70,
+            "uses": 25,
+            "worth": 0
+        },
+        {
+            "kind": 8,
+            "might": 1,
+            "name": "Wind",
+            "rank": "E",
+            "to_crit": 0,
+            "to_hit": 100,
+            "uses": 45,
+            "worth": 450
+        },
+        {
+            "kind": 8,
+            "might": 4,
+            "name": "Elwind",
+            "rank": "D",
+            "to_crit": 0,
+            "to_hit": 95,
+            "uses": 35,
+            "worth": 910
+        },
+        {
+            "kind": 8,
+            "might": 6,
+            "name": "Arcwind",
+            "rank": "C",
+            "to_crit": 0,
+            "to_hit": 90,
+            "uses": 30,
+            "worth": 1320
+        },
+        {
+            "kind": 8,
+            "might": 10,
+            "name": "Rexcalibur",
+            "rank": "B",
+            "to_crit": 0,
+            "to_hit": 85,
+            "uses": 25,
+            "worth": 1900
+        },
+        {
+            "kind": 8,
+            "might": 13,
+            "name": "Excalibur",
+            "rank": "A",
+            "to_crit": 30,
+            "to_hit": 100,
+            "uses": 25,
+            "worth": 0
+        },
+        {
+            "kind": 8,
+            "might": 14,
+            "name": "Forseti",
+            "rank": "A",
+            "to_crit": 10,
+            "to_hit": 90,
+            "uses": 25,
+            "worth": 0
+        },
+        {
+            "kind": 8,
+            "might": 15,
+            "name": "Book of Naga",
+            "rank": "A",
+            "to_crit": 15,
+            "to_hit": 80,
+            "uses": 25,
+            "worth": 0
+        },
+        {
+            "kind": 8,
+            "might": 5,
+            "name": "Flux",
+            "rank": "E",
+            "to_crit": 0,
+            "to_hit": 70,
+            "uses": 45,
+            "worth": 540
+        },
+        {
+            "kind": 8,
+            "might": 7,
+            "name": "Nosferatu",
+            "rank": "D",
+            "to_crit": 0,
+            "to_hit": 65,
+            "uses": 20,
+            "worth": 980
+        },
+        {
+            "kind": 8,
+            "might": 4,
+            "name": "Ruin",
+            "rank": "C",
+            "to_crit": 50,
+            "to_hit": 60,
+            "uses": 20,
+            "worth": 1380
+        },
+        {
+            "kind": 8,
+            "might": 10,
+            "name": "Waste",
+            "rank": "B",
+            "to_crit": 0,
+            "to_hit": 45,
+            "uses": 30,
+            "worth": 2160
+        },
+        {
+            "kind": 8,
+            "might": 19,
+            "name": "Goetia",
+            "rank": "A",
+            "to_crit": 10,
+            "to_hit": 75,
+            "uses": 25,
+            "worth": 0
+        },
+        {
+            "kind": 8,
+            "might": 12,
+            "name": "Grima\u2019s Truth",
+            "rank": "B",
+            "to_crit": 0,
+            "to_hit": 80,
+            "uses": 0,
+            "worth": 0
+        },
+        {
+            "kind": 8,
+            "might": 10,
+            "name": "Mire",
+            "rank": "C",
+            "to_crit": 0,
+            "to_hit": 65,
+            "uses": 10,
+            "worth": 2000
+        },
+        {
+            "kind": 8,
+            "might": 10,
+            "name": "Dying Blaze",
+            "rank": "E",
+            "to_crit": 0,
+            "to_hit": 75,
+            "uses": 3,
+            "worth": 600
+        },
+        {
+            "kind": 8,
+            "might": 13,
+            "name": "Micaiah\u2019s Pyre",
+            "rank": "B",
+            "to_crit": 5,
+            "to_hit": 85,
+            "uses": 15,
+            "worth": 2130
+        },
+        {
+            "kind": 8,
+            "might": 14,
+            "name": "Superior Jolt",
+            "rank": "B",
+            "to_crit": 15,
+            "to_hit": 60,
+            "uses": 10,
+            "worth": 2320
+        },
+        {
+            "kind": 8,
+            "might": 11,
+            "name": "Katarina\u2019s Bolt",
+            "rank": "C",
+            "to_crit": 30,
+            "to_hit": 75,
+            "uses": 20,
+            "worth": 1920
+        },
+        {
+            "kind": 8,
+            "might": 2,
+            "name": "Wilderwind",
+            "rank": "D",
+            "to_crit": 35,
+            "to_hit": 70,
+            "uses": 5,
+            "worth": 760
+        },
+        {
+            "kind": 8,
+            "might": 4,
+            "name": "Celica\u2019s Gale",
+            "rank": "C",
+            "to_crit": 5,
+            "to_hit": 80,
+            "uses": 20,
+            "worth": 1720
+        },
+        {
+            "kind": 8,
+            "might": 15,
+            "name": "Aversa\u2019s Night",
+            "rank": "B",
+            "to_crit": 0,
+            "to_hit": 75,
+            "uses": 10,
+            "worth": 2340
+        },
+        {
+            "kind": 2,
+            "might": 6,
+            "name": "Beaststone",
+            "rank": "E",
+            "to_crit": 0,
+            "to_hit": 80,
+            "uses": 50,
+            "worth": 2000
+        },
+        {
+            "kind": 2,
+            "might": 10,
+            "name": "Beaststone+",
+            "rank": "E",
+            "to_crit": 0,
+            "to_hit": 70,
+            "uses": 35,
+            "worth": 3220
+        },
+        {
+            "kind": 4,
+            "might": 8,
+            "name": "Dragonstone",
+            "rank": "E",
+            "to_crit": 0,
+            "to_hit": 80,
+            "uses": 50,
+            "worth": 2300
+        },
+        {
+            "kind": 4,
+            "might": 12,
+            "name": "Dragonstone+",
+            "rank": "E",
+            "to_crit": 0,
+            "to_hit": 70,
+            "uses": 35,
+            "worth": 3780
+        },
+        {
+            "kind": 6,
+            "might": 0,
+            "name": "Heal",
+            "rank": "E",
+            "to_crit": 0,
+            "to_hit": 0,
+            "uses": 30,
+            "worth": 600
+        },
+        {
+            "kind": 6,
+            "might": 0,
+            "name": "Mend",
+            "rank": "D",
+            "to_crit": 0,
+            "to_hit": 0,
+            "uses": 20,
+            "worth": 1000
+        },
+        {
+            "kind": 6,
+            "might": 0,
+            "name": "Physic",
+            "rank": "C",
+            "to_crit": 0,
+            "to_hit": 0,
+            "uses": 10,
+            "worth": 1800
+        },
+        {
+            "kind": 6,
+            "might": 0,
+            "name": "Recover",
+            "rank": "B",
+            "to_crit": 0,
+            "to_hit": 0,
+            "uses": 15,
+            "worth": 1950
+        },
+        {
+            "kind": 6,
+            "might": 0,
+            "name": "Fortify",
+            "rank": "A",
+            "to_crit": 0,
+            "to_hit": 0,
+            "uses": 5,
+            "worth": 2500
+        },
+        {
+            "kind": 6,
+            "might": 0,
+            "name": "Goddess Staff",
+            "rank": "A",
+            "to_crit": 0,
+            "to_hit": 0,
+            "uses": 1,
+            "worth": 0
+        },
+        {
+            "kind": 6,
+            "might": 0,
+            "name": "Rescue",
+            "rank": "E",
+            "to_crit": 0,
+            "to_hit": 0,
+            "uses": 5,
+            "worth": 1280
+        },
+        {
+            "kind": 6,
+            "might": 0,
+            "name": "Ward",
+            "rank": "C",
+            "to_crit": 0,
+            "to_hit": 0,
+            "uses": 5,
+            "worth": 2100
+        },
+        {
+            "kind": 6,
+            "might": 0,
+            "name": "Hammerne",
+            "rank": "B",
+            "to_crit": 0,
+            "to_hit": 0,
+            "uses": 1,
+            "worth": 2000
+        },
+        {
+            "kind": 6,
+            "might": 0,
+            "name": "Kneader",
+            "rank": "E",
+            "to_crit": 0,
+            "to_hit": 0,
+            "uses": 20,
+            "worth": 100
+        },
+        {
+            "kind": 6,
+            "might": 0,
+            "name": "Balmwood Staff",
+            "rank": "D",
+            "to_crit": 0,
+            "to_hit": 0,
+            "uses": 15,
+            "worth": 1200
+        },
+        {
+            "kind": 6,
+            "might": 0,
+            "name": "Catharsis",
+            "rank": "B",
+            "to_crit": 0,
+            "to_hit": 0,
+            "uses": 5,
+            "worth": 2100
+        }
+    ]
+}
