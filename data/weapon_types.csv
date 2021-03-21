@@ -9,8 +9,8 @@ Knight,Lance
 General,Lance-Axe
 Great Knight,Sword-Lance-Axe
 Myrmidon,Sword
-Swordmaster,Sword 
-Thief,Sword 
+Swordmaster,Sword
+Thief,Sword
 Trickster,Sword-Staff
 Assassin,Sword-Bow
 Barbarian,Axe
@@ -20,11 +20,11 @@ Warrior,Axe-Bow
 Mercenary,Sword
 Hero,Sword-Axe
 Archer,Bow
-Sniper,Bow 
+Sniper,Bow
 Bow Knight,Sword-Bow
 Dark Mage,Tome
-Sorcerer,Tome 
-Mage,Tome 
+Sorcerer,Tome
+Mage,Tome
 Sage,Tome-Staff
 Dark Knight,Sword-Tome
 Cleric,Staff
