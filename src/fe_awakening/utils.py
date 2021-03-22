@@ -5,6 +5,9 @@ import csv
 from typing import Union
 from . import models
 
+from rich import print
+
+
 # TODO: remove all csv functionality and only read from json
 # ! OR
 # TODO: make functionality for 'update' to update the main json record from \
@@ -194,12 +197,17 @@ def update_skills():
     return skills
 
 
-def load_data(only: Union[str, list[str]] = "all"):
+def load_data() -> tuple[
+    list[models.Character],
+    list[models.Weapon],
+    list[Union[models.StarterClass, models.AdvancedClass]],
+]:
     with open("data/data.json", "r", encoding="utf-8-sig") as f:
         data = json.load(f)
-    if only != "all":
-        return data[only]
-    return data
-
-
-print(load_data())
+    characters = [models.Character(**c) for c in data["characters"]]
+    weapons = [models.Weapon(**c) for c in data["weapons"]]
+    classes = [
+        models.StarterClass(**c) if c.get("promotes_to") else models.AdvancedClass(**c)
+        for c in data["classes"]
+    ]
+    return characters, weapons, classes
