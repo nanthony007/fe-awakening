@@ -2,7 +2,20 @@
     "characters": [
         {
             "can_marry": [
-                "Chrom"
+                "Chrom",
+                "Frederick",
+                "Virion",
+                "Stahl",
+                "Vaike",
+                "Kellam",
+                "Donnel",
+                "Lonqu",
+                "Ricken",
+                "Gaius",
+                "Gregor",
+                "Libra",
+                "Henry",
+                "Owain"
             ],
             "child": "Morgan (M)",
             "class_options": [
@@ -25,7 +38,20 @@
             "unlock_episode": "0"
         },
         {
-            "can_marry": null,
+            "can_marry": [
+                "Lissa",
+                "Sully",
+                "Miriel",
+                "Sumia",
+                "Cordelia",
+                "Tharja",
+                "Olivia",
+                "Cherche",
+                "Lucina",
+                "Severa",
+                "Noire",
+                "Nah"
+            ],
             "child": "Morgan (F)",
             "class_options": [
                 "Tactician",
